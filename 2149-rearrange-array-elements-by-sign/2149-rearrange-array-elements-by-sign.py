@@ -1,10 +1,10 @@
 class Solution:
     def rearrangeArray(self, nums: List[int]) -> List[int]:
-        length = len(nums)
-        result = [0] * length
+        n = len(nums)
+        result = [0] * n
         pos = 0
         neg = 1
-        for x in range(length):
+        for x in range(n):
             if nums[x] > 0:
                 result[pos] = nums[x]
                 pos += 2
