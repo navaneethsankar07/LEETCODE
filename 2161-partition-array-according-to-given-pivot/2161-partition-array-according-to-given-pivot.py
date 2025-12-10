@@ -11,6 +11,4 @@ class Solution:
             else:
                 equals.append(nums[x])
         
-        equals+=right
-        left+=equals
-        return left
+        return left + equals + right
