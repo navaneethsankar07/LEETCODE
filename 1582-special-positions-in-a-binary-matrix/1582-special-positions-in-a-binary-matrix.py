@@ -12,8 +12,9 @@ class Solution:
                     col[y] += 1
         
         for i in range(m):
-            for j in range(n):
-                if mat[i][j] == 1 and row[i] == 1 and col[j] == 1:
-                    count += 1
+            if row[i] == 1:
+                for j in range(n):
+                    if mat[i][j] == 1 and col[j] == 1:
+                        count += 1
         
         return count
