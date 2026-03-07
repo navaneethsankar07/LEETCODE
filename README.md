@@ -22,4 +22,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/navaneethsankar07/flaq/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3220-odd-and-even-transactions](https://github.com/navaneethsankar07/flaq/tree/main/3220-odd-and-even-transactions/) | Medium |
 <!---LeetCode Topics End-->
