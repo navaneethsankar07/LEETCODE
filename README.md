@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/navaneethsankar07/flaq/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/navaneethsankar07/flaq/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/navaneethsankar07/flaq/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/navaneethsankar07/flaq/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/navaneethsankar07/flaq/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3210-find-the-encrypted-string](https://github.com/navaneethsankar07/flaq/tree/main/3210-find-the-encrypted-string/) | Easy |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/navaneethsankar07/flaq/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/navaneethsankar07/flaq/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
