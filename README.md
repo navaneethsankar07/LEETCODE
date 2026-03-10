@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/navaneethsankar07/flaq/tree/main/0001-two-sum/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/navaneethsankar07/flaq/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/navaneethsankar07/flaq/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/navaneethsankar07/flaq/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1929-concatenation-of-array](https://github.com/navaneethsankar07/flaq/tree/main/1929-concatenation-of-array/) | Easy |
@@ -77,4 +78,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/navaneethsankar07/flaq/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/navaneethsankar07/flaq/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
