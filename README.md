@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1189-maximum-number-of-balloons](https://github.com/navaneethsankar07/flaq/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1436-destination-city](https://github.com/navaneethsankar07/flaq/tree/main/1436-destination-city/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/navaneethsankar07/flaq/tree/main/1980-find-unique-binary-string/) | Medium |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/navaneethsankar07/flaq/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3803-count-residue-prefixes](https://github.com/navaneethsankar07/flaq/tree/main/3803-count-residue-prefixes/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1929-concatenation-of-array](https://github.com/navaneethsankar07/flaq/tree/main/1929-concatenation-of-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/navaneethsankar07/flaq/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/navaneethsankar07/flaq/tree/main/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/navaneethsankar07/flaq/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-middle-of-the-linked-list](https://github.com/navaneethsankar07/flaq/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/navaneethsankar07/flaq/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1472-design-browser-history](https://github.com/navaneethsankar07/flaq/tree/main/1472-design-browser-history/) | Medium |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/navaneethsankar07/flaq/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
