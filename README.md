@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/navaneethsankar07/flaq/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/navaneethsankar07/flaq/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/navaneethsankar07/flaq/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/navaneethsankar07/flaq/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-middle-of-the-linked-list](https://github.com/navaneethsankar07/flaq/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/navaneethsankar07/flaq/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1472-design-browser-history](https://github.com/navaneethsankar07/flaq/tree/main/1472-design-browser-history/) | Medium |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/navaneethsankar07/flaq/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/navaneethsankar07/flaq/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -161,4 +163,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1472-design-browser-history](https://github.com/navaneethsankar07/flaq/tree/main/1472-design-browser-history/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/navaneethsankar07/flaq/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 <!---LeetCode Topics End-->
