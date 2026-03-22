@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1929-concatenation-of-array](https://github.com/navaneethsankar07/flaq/tree/main/1929-concatenation-of-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/navaneethsankar07/flaq/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/navaneethsankar07/flaq/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/navaneethsankar07/flaq/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/navaneethsankar07/flaq/tree/main/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/navaneethsankar07/flaq/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 ## Matrix
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/navaneethsankar07/flaq/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/navaneethsankar07/flaq/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
