@@ -3,7 +3,6 @@ class Solution:
         rec = []
 
         for x in operations:
-            print(rec)
             if x == 'D':
                 rec.append(rec[-1]*2)
             elif x == '+':
