@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/navaneethsankar07/flaq/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/navaneethsankar07/flaq/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/navaneethsankar07/flaq/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0561-array-partition](https://github.com/navaneethsankar07/flaq/tree/main/0561-array-partition/) | Easy |
 | [0682-baseball-game](https://github.com/navaneethsankar07/flaq/tree/main/0682-baseball-game/) | Easy |
 | [0748-shortest-completing-word](https://github.com/navaneethsankar07/flaq/tree/main/0748-shortest-completing-word/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/navaneethsankar07/flaq/tree/main/0804-unique-morse-code-words/) | Easy |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0409-longest-palindrome](https://github.com/navaneethsankar07/flaq/tree/main/0409-longest-palindrome/) | Easy |
+| [0561-array-partition](https://github.com/navaneethsankar07/flaq/tree/main/0561-array-partition/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/navaneethsankar07/flaq/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/navaneethsankar07/flaq/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 ## Simulation
@@ -103,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/navaneethsankar07/flaq/tree/main/0015-3sum/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/navaneethsankar07/flaq/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0561-array-partition](https://github.com/navaneethsankar07/flaq/tree/main/0561-array-partition/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/navaneethsankar07/flaq/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -184,4 +187,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/navaneethsankar07/flaq/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0561-array-partition](https://github.com/navaneethsankar07/flaq/tree/main/0561-array-partition/) | Easy |
 <!---LeetCode Topics End-->
