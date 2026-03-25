@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0682-baseball-game](https://github.com/navaneethsankar07/flaq/tree/main/0682-baseball-game/) | Easy |
 | [0748-shortest-completing-word](https://github.com/navaneethsankar07/flaq/tree/main/0748-shortest-completing-word/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/navaneethsankar07/flaq/tree/main/0804-unique-morse-code-words/) | Easy |
+| [0912-sort-an-array](https://github.com/navaneethsankar07/flaq/tree/main/0912-sort-an-array/) | Medium |
 | [1002-find-common-characters](https://github.com/navaneethsankar07/flaq/tree/main/1002-find-common-characters/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/navaneethsankar07/flaq/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1436-destination-city](https://github.com/navaneethsankar07/flaq/tree/main/1436-destination-city/) | Easy |
@@ -100,21 +101,25 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/navaneethsankar07/flaq/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0912-sort-an-array](https://github.com/navaneethsankar07/flaq/tree/main/0912-sort-an-array/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/navaneethsankar07/flaq/tree/main/0015-3sum/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/navaneethsankar07/flaq/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0561-array-partition](https://github.com/navaneethsankar07/flaq/tree/main/0561-array-partition/) | Easy |
+| [0912-sort-an-array](https://github.com/navaneethsankar07/flaq/tree/main/0912-sort-an-array/) | Medium |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/navaneethsankar07/flaq/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/navaneethsankar07/flaq/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0912-sort-an-array](https://github.com/navaneethsankar07/flaq/tree/main/0912-sort-an-array/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/navaneethsankar07/flaq/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0912-sort-an-array](https://github.com/navaneethsankar07/flaq/tree/main/0912-sort-an-array/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -191,4 +196,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/navaneethsankar07/flaq/tree/main/0561-array-partition/) | Easy |
+| [0912-sort-an-array](https://github.com/navaneethsankar07/flaq/tree/main/0912-sort-an-array/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/navaneethsankar07/flaq/tree/main/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/navaneethsankar07/flaq/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
