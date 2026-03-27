@@ -1,7 +1,7 @@
 class Solution:
     def isValid(self, s: str) -> bool:
         stack = []
-        pairs = {')': '(', '}': '{', ']': '['}
+        pairs = {')':'(', ']':'[', '}':'{'}
         for x in s:
             if x in pairs:
                 if not stack or stack[-1] != pairs[x]:
@@ -9,7 +9,5 @@ class Solution:
                 stack.pop()
             else:
                 stack.append(x)
-            
 
-
-        return not stack
+        return len(stack) == 0
