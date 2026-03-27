@@ -1,13 +1,29 @@
 class Solution:
     def sortArray(self, nums: List[int]) -> List[int]:
-        for x in range(1,len(nums)):
-            key = nums[x]
-            j = x - 1
+        if len(nums) <= 1:
+            return nums
+        mid = len(nums) // 2
 
-            while j >= 0 and nums[j] > key:
-                nums[j+1] = nums[j]
-                j -= 1
-            
-            nums[j+1] = key
+
+        left = self.sortArray(nums[:mid])
+        right = self.sortArray(nums[mid:])
+
+        return self.merge(left,right)
+
+    
+    def merge(self,left,right):
+        res = []
+        i = j = 0
+
+        while i < len(left) and j < len(right):
+            if left[i] < right[j]:
+                res.append(left[i])
+                i+=1
+            else:
+                res.append(right[j])
+                j+=1
         
-        return nums
+        res.extend(left[i:])
+        res.extend(right[j:])
+
+        return res
