@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1002-find-common-characters](https://github.com/navaneethsankar07/flaq/tree/main/1002-find-common-characters/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/navaneethsankar07/flaq/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1436-destination-city](https://github.com/navaneethsankar07/flaq/tree/main/1436-destination-city/) | Easy |
+| [1441-build-an-array-with-stack-operations](https://github.com/navaneethsankar07/flaq/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1472-design-browser-history](https://github.com/navaneethsankar07/flaq/tree/main/1472-design-browser-history/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/navaneethsankar07/flaq/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1929-concatenation-of-array](https://github.com/navaneethsankar07/flaq/tree/main/1929-concatenation-of-array/) | Easy |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/navaneethsankar07/flaq/tree/main/0682-baseball-game/) | Easy |
 | [0867-transpose-matrix](https://github.com/navaneethsankar07/flaq/tree/main/0867-transpose-matrix/) | Easy |
+| [1441-build-an-array-with-stack-operations](https://github.com/navaneethsankar07/flaq/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1929-concatenation-of-array](https://github.com/navaneethsankar07/flaq/tree/main/1929-concatenation-of-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -179,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/navaneethsankar07/flaq/tree/main/0682-baseball-game/) | Easy |
+| [1441-build-an-array-with-stack-operations](https://github.com/navaneethsankar07/flaq/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1472-design-browser-history](https://github.com/navaneethsankar07/flaq/tree/main/1472-design-browser-history/) | Medium |
 ## Design
 | Problem Name | Difficulty |
