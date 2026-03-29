@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/navaneethsankar07/flaq/tree/main/0202-happy-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/navaneethsankar07/flaq/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0409-longest-palindrome](https://github.com/navaneethsankar07/flaq/tree/main/0409-longest-palindrome/) | Easy |
+| [0706-design-hashmap](https://github.com/navaneethsankar07/flaq/tree/main/0706-design-hashmap/) | Easy |
 | [0748-shortest-completing-word](https://github.com/navaneethsankar07/flaq/tree/main/0748-shortest-completing-word/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/navaneethsankar07/flaq/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1002-find-common-characters](https://github.com/navaneethsankar07/flaq/tree/main/1002-find-common-characters/) | Easy |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/navaneethsankar07/flaq/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0561-array-partition](https://github.com/navaneethsankar07/flaq/tree/main/0561-array-partition/) | Easy |
 | [0682-baseball-game](https://github.com/navaneethsankar07/flaq/tree/main/0682-baseball-game/) | Easy |
+| [0706-design-hashmap](https://github.com/navaneethsankar07/flaq/tree/main/0706-design-hashmap/) | Easy |
 | [0748-shortest-completing-word](https://github.com/navaneethsankar07/flaq/tree/main/0748-shortest-completing-word/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/navaneethsankar07/flaq/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0867-transpose-matrix](https://github.com/navaneethsankar07/flaq/tree/main/0867-transpose-matrix/) | Easy |
@@ -174,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/navaneethsankar07/flaq/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/navaneethsankar07/flaq/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/navaneethsankar07/flaq/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [0706-design-hashmap](https://github.com/navaneethsankar07/flaq/tree/main/0706-design-hashmap/) | Easy |
 | [0707-design-linked-list](https://github.com/navaneethsankar07/flaq/tree/main/0707-design-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/navaneethsankar07/flaq/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/navaneethsankar07/flaq/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
@@ -212,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/navaneethsankar07/flaq/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/navaneethsankar07/flaq/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/navaneethsankar07/flaq/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0706-design-hashmap](https://github.com/navaneethsankar07/flaq/tree/main/0706-design-hashmap/) | Easy |
 | [0707-design-linked-list](https://github.com/navaneethsankar07/flaq/tree/main/0707-design-linked-list/) | Medium |
 | [1472-design-browser-history](https://github.com/navaneethsankar07/flaq/tree/main/1472-design-browser-history/) | Medium |
 ## Doubly-Linked List
@@ -248,4 +252,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/navaneethsankar07/flaq/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/navaneethsankar07/flaq/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0706-design-hashmap](https://github.com/navaneethsankar07/flaq/tree/main/0706-design-hashmap/) | Easy |
 <!---LeetCode Topics End-->
