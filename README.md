@@ -170,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0338-counting-bits](https://github.com/navaneethsankar07/flaq/tree/main/0338-counting-bits/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/navaneethsankar07/flaq/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/navaneethsankar07/flaq/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 ## Linked List
@@ -273,4 +274,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/navaneethsankar07/flaq/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0338-counting-bits](https://github.com/navaneethsankar07/flaq/tree/main/0338-counting-bits/) | Easy |
 <!---LeetCode Topics End-->
