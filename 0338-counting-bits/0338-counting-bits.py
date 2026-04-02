@@ -1,8 +1,8 @@
 class Solution:
     def countBits(self, n: int) -> List[int]:
-        ans = []
-        for x in range(n+1):
-            binary = bin(x).count('1')
-            ans.append(binary)
+        ans = [0]
+
+        while len(ans) <= n:
+            ans += [bits + 1 for bits in ans]
         
-        return ans
+        return ans[:n+1]
