@@ -285,16 +285,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/navaneethsankar07/flaq/tree/main/0100-same-tree/) | Easy |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/navaneethsankar07/flaq/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/navaneethsankar07/flaq/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/navaneethsankar07/flaq/tree/main/0100-same-tree/) | Easy |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/navaneethsankar07/flaq/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/navaneethsankar07/flaq/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/navaneethsankar07/flaq/tree/main/0100-same-tree/) | Easy |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/navaneethsankar07/flaq/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
