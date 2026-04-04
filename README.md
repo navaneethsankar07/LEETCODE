@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/navaneethsankar07/flaq/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/navaneethsankar07/flaq/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/navaneethsankar07/flaq/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/navaneethsankar07/flaq/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/navaneethsankar07/flaq/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/navaneethsankar07/flaq/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0561-array-partition](https://github.com/navaneethsankar07/flaq/tree/main/0561-array-partition/) | Easy |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/navaneethsankar07/flaq/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/navaneethsankar07/flaq/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/navaneethsankar07/flaq/tree/main/0912-sort-an-array/) | Medium |
 ## Sorting
@@ -296,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/navaneethsankar07/flaq/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/navaneethsankar07/flaq/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/navaneethsankar07/flaq/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/navaneethsankar07/flaq/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/navaneethsankar07/flaq/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/navaneethsankar07/flaq/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/navaneethsankar07/flaq/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
@@ -342,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/navaneethsankar07/flaq/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/navaneethsankar07/flaq/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/navaneethsankar07/flaq/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/navaneethsankar07/flaq/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/navaneethsankar07/flaq/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/navaneethsankar07/flaq/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/navaneethsankar07/flaq/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
@@ -353,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/navaneethsankar07/flaq/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/navaneethsankar07/flaq/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/navaneethsankar07/flaq/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/navaneethsankar07/flaq/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/navaneethsankar07/flaq/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
