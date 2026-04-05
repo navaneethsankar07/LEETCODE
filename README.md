@@ -300,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/navaneethsankar07/flaq/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/navaneethsankar07/flaq/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/navaneethsankar07/flaq/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/navaneethsankar07/flaq/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/navaneethsankar07/flaq/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/navaneethsankar07/flaq/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/navaneethsankar07/flaq/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -319,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/navaneethsankar07/flaq/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/navaneethsankar07/flaq/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/navaneethsankar07/flaq/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/navaneethsankar07/flaq/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/navaneethsankar07/flaq/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/navaneethsankar07/flaq/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/navaneethsankar07/flaq/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -335,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/navaneethsankar07/flaq/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/navaneethsankar07/flaq/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/navaneethsankar07/flaq/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0111-minimum-depth-of-binary-tree](https://github.com/navaneethsankar07/flaq/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/navaneethsankar07/flaq/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/navaneethsankar07/flaq/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/navaneethsankar07/flaq/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -351,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/navaneethsankar07/flaq/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/navaneethsankar07/flaq/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/navaneethsankar07/flaq/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/navaneethsankar07/flaq/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/navaneethsankar07/flaq/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/navaneethsankar07/flaq/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/navaneethsankar07/flaq/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
