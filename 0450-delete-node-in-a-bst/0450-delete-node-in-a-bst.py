@@ -6,8 +6,8 @@
 #         self.right = right
 class Solution:
 
-    @staticmethod
-    def find_min(root):
+    
+    def find_min(self,root):
         while root.left:
             root = root.left
         return root
