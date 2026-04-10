@@ -4,8 +4,6 @@ class TrieNode:
         self.suggestions = []
 
 class Solution:
-    def __init__(self):
-        self.root = TrieNode()
     
     def suggestedProducts(self, products: List[str], searchWord: str) -> List[List[str]]:
         products.sort()
