@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/navaneethsankar07/flaq/tree/main/0002-add-two-numbers/) | Medium |
 | [0202-happy-number](https://github.com/navaneethsankar07/flaq/tree/main/0202-happy-number/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/navaneethsankar07/flaq/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/navaneethsankar07/flaq/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/navaneethsankar07/flaq/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/navaneethsankar07/flaq/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/navaneethsankar07/flaq/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/navaneethsankar07/flaq/tree/main/0024-swap-nodes-in-pairs/) | Medium |
@@ -226,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/navaneethsankar07/flaq/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/navaneethsankar07/flaq/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/navaneethsankar07/flaq/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/navaneethsankar07/flaq/tree/main/0203-remove-linked-list-elements/) | Easy |
