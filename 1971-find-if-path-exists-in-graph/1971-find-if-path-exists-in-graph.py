@@ -1,3 +1,4 @@
+from collections import deque
 class Solution:
     def validPath(self, n: int, edges: List[List[int]], source: int, destination: int) -> bool:
         graph = {i:[] for i in range(n)}
@@ -6,19 +7,18 @@ class Solution:
             graph[u].append(v)
             graph[v].append(u)
         
-        visited = set()
+        queue = deque([source])
+        visited = set([source])
 
-        def dfs(node):
+        while queue:
+            node = queue.popleft()
+
             if node == destination:
                 return True
             
-            visited.add(node)
-
-            for x in graph[node]:
-                if x not in visited:
-                    if dfs(x):
-                        return True
-            
-            return False
+            for neighbor in graph[node]:
+                if neighbor not in visited:
+                    visited.add(neighbor)
+                    queue.append(neighbor)
         
-        return dfs(source)
+        return False
