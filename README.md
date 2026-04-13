@@ -370,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0617-merge-two-binary-trees](https://github.com/navaneethsankar07/flaq/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/navaneethsankar07/flaq/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/navaneethsankar07/flaq/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
+| [0841-keys-and-rooms](https://github.com/navaneethsankar07/flaq/tree/main/0841-keys-and-rooms/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/navaneethsankar07/flaq/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/navaneethsankar07/flaq/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Breadth-First Search
@@ -387,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/navaneethsankar07/flaq/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/navaneethsankar07/flaq/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/navaneethsankar07/flaq/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0841-keys-and-rooms](https://github.com/navaneethsankar07/flaq/tree/main/0841-keys-and-rooms/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/navaneethsankar07/flaq/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/navaneethsankar07/flaq/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
@@ -442,5 +444,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/navaneethsankar07/flaq/tree/main/0547-number-of-provinces/) | Medium |
+| [0841-keys-and-rooms](https://github.com/navaneethsankar07/flaq/tree/main/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/navaneethsankar07/flaq/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 <!---LeetCode Topics End-->
