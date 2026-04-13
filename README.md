@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1441-build-an-array-with-stack-operations](https://github.com/navaneethsankar07/flaq/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1472-design-browser-history](https://github.com/navaneethsankar07/flaq/tree/main/1472-design-browser-history/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/navaneethsankar07/flaq/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1848-minimum-distance-to-the-target-element](https://github.com/navaneethsankar07/flaq/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1929-concatenation-of-array](https://github.com/navaneethsankar07/flaq/tree/main/1929-concatenation-of-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/navaneethsankar07/flaq/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/navaneethsankar07/flaq/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
