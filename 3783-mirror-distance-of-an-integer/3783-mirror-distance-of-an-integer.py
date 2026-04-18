@@ -1,3 +1,9 @@
 class Solution:
     def mirrorDistance(self, n: int) -> int:
-        return abs(n-int(str(n)[::-1]))
+        front = n
+        rev = 0
+        while front:
+            digit = front % 10
+            rev = rev * 10 + digit
+            front = front//10
+        return abs(n-rev)
