@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/navaneethsankar07/flaq/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1929-concatenation-of-array](https://github.com/navaneethsankar07/flaq/tree/main/1929-concatenation-of-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/navaneethsankar07/flaq/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/navaneethsankar07/flaq/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/navaneethsankar07/flaq/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/navaneethsankar07/flaq/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/navaneethsankar07/flaq/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/navaneethsankar07/flaq/tree/main/0409-longest-palindrome/) | Easy |
 | [0561-array-partition](https://github.com/navaneethsankar07/flaq/tree/main/0561-array-partition/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/navaneethsankar07/flaq/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/navaneethsankar07/flaq/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/navaneethsankar07/flaq/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2375-construct-smallest-number-from-di-string](https://github.com/navaneethsankar07/flaq/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 ## Simulation
