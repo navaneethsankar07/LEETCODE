@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/navaneethsankar07/flaq/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/navaneethsankar07/flaq/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/navaneethsankar07/flaq/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0198-house-robber](https://github.com/navaneethsankar07/flaq/tree/main/0198-house-robber/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/navaneethsankar07/flaq/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/navaneethsankar07/flaq/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/navaneethsankar07/flaq/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -342,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0198-house-robber](https://github.com/navaneethsankar07/flaq/tree/main/0198-house-robber/) | Medium |
 | [0338-counting-bits](https://github.com/navaneethsankar07/flaq/tree/main/0338-counting-bits/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
