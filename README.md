@@ -373,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0700-search-in-a-binary-search-tree](https://github.com/navaneethsankar07/flaq/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/navaneethsankar07/flaq/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/navaneethsankar07/flaq/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/navaneethsankar07/flaq/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/navaneethsankar07/flaq/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -398,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/navaneethsankar07/flaq/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0841-keys-and-rooms](https://github.com/navaneethsankar07/flaq/tree/main/0841-keys-and-rooms/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/navaneethsankar07/flaq/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/navaneethsankar07/flaq/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/navaneethsankar07/flaq/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -416,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/navaneethsankar07/flaq/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0841-keys-and-rooms](https://github.com/navaneethsankar07/flaq/tree/main/0841-keys-and-rooms/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/navaneethsankar07/flaq/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/navaneethsankar07/flaq/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/navaneethsankar07/flaq/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -443,6 +446,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0700-search-in-a-binary-search-tree](https://github.com/navaneethsankar07/flaq/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/navaneethsankar07/flaq/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/navaneethsankar07/flaq/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/navaneethsankar07/flaq/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/navaneethsankar07/flaq/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
