@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0482-license-key-formatting](https://github.com/navaneethsankar07/flaq/tree/main/0482-license-key-formatting/) | Easy |
 | [0551-student-attendance-record-i](https://github.com/navaneethsankar07/flaq/tree/main/0551-student-attendance-record-i/) | Easy |
 | [0748-shortest-completing-word](https://github.com/navaneethsankar07/flaq/tree/main/0748-shortest-completing-word/) | Easy |
+| [0796-rotate-string](https://github.com/navaneethsankar07/flaq/tree/main/0796-rotate-string/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/navaneethsankar07/flaq/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1002-find-common-characters](https://github.com/navaneethsankar07/flaq/tree/main/1002-find-common-characters/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/navaneethsankar07/flaq/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -478,4 +479,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/navaneethsankar07/flaq/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/navaneethsankar07/flaq/tree/main/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/navaneethsankar07/flaq/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/navaneethsankar07/flaq/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
