@@ -1,7 +1,12 @@
-from collections import Counter
 class Solution:
     def toggleLightBulbs(self, bulbs: list[int]) -> list[int]:
-        freq = Counter(bulbs)
-        result = [x for x,y in freq.items() if y%2==1]
-        result.sort()
+        result = set()
+
+        for x in bulbs:
+            if x in result:
+                result.remove(x)
+            else:
+                result.add(x)
+        
+        result = sorted(result)
         return result
