@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/navaneethsankar07/flaq/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/navaneethsankar07/flaq/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3803-count-residue-prefixes](https://github.com/navaneethsankar07/flaq/tree/main/3803-count-residue-prefixes/) | Easy |
+| [3842-toggle-light-bulbs](https://github.com/navaneethsankar07/flaq/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3866-first-unique-even-element](https://github.com/navaneethsankar07/flaq/tree/main/3866-first-unique-even-element/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/navaneethsankar07/flaq/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/navaneethsankar07/flaq/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/navaneethsankar07/flaq/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3842-toggle-light-bulbs](https://github.com/navaneethsankar07/flaq/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3866-first-unique-even-element](https://github.com/navaneethsankar07/flaq/tree/main/3866-first-unique-even-element/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -176,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1929-concatenation-of-array](https://github.com/navaneethsankar07/flaq/tree/main/1929-concatenation-of-array/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/navaneethsankar07/flaq/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/navaneethsankar07/flaq/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [3842-toggle-light-bulbs](https://github.com/navaneethsankar07/flaq/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -197,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1268-search-suggestions-system](https://github.com/navaneethsankar07/flaq/tree/main/1268-search-suggestions-system/) | Medium |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/navaneethsankar07/flaq/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/navaneethsankar07/flaq/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
+| [3842-toggle-light-bulbs](https://github.com/navaneethsankar07/flaq/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
