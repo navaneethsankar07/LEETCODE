@@ -1,13 +1,16 @@
 class Solution:
     def maxPower(self, s: str) -> int:
+        max_ = 1
         count = 1
-        max_count = 1
-
-        for x in range(1,len(s)):
-            if s[x] != s[x-1]:
-                max_count = max(max_count, count)
-                count = 1
-            else:
+        curr = s[0]
+        for x in s[1:]:
+            if x == curr:
                 count += 1
-        max_count = max(max_count, count)
-        return max_count
+            
+            else:
+                curr = x
+                count = 1
+            
+            max_ = max(max_, count)
+        
+        return max_
