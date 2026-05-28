@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1517-find-users-with-valid-e-mails](https://github.com/navaneethsankar07/flaq/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
 | [3220-odd-and-even-transactions](https://github.com/navaneethsankar07/flaq/tree/main/3220-odd-and-even-transactions/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
