@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/navaneethsankar07/flaq/tree/main/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/navaneethsankar07/flaq/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3232-find-if-digit-game-can-be-won](https://github.com/navaneethsankar07/flaq/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/navaneethsankar07/flaq/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3668-restore-finishing-order](https://github.com/navaneethsankar07/flaq/tree/main/3668-restore-finishing-order/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/navaneethsankar07/flaq/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/navaneethsankar07/flaq/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/navaneethsankar07/flaq/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/navaneethsankar07/flaq/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3232-find-if-digit-game-can-be-won](https://github.com/navaneethsankar07/flaq/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/navaneethsankar07/flaq/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/navaneethsankar07/flaq/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/navaneethsankar07/flaq/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/navaneethsankar07/flaq/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
