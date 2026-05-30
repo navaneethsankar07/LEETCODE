@@ -8,6 +8,6 @@ class Solution:
                 additionalTank -= 1
             else:
                 distance += mainTank*10
-                mainTank = 0
+                break
 
         return distance
