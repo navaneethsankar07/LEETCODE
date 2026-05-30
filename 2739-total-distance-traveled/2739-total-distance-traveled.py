@@ -1,15 +1,16 @@
 class Solution:
     def distanceTraveled(self, mainTank: int, additionalTank: int) -> int:
-        distance = 0
+        res = 0
+        
         while mainTank > 0:
-            if mainTank >=5:
-                distance += 50
+            if mainTank >= 5:
+                res += 50
                 mainTank -= 5
                 if additionalTank > 0:
                     additionalTank -= 1
                     mainTank += 1
             else:
-                distance += mainTank*10
+                res += 10 * mainTank
                 break
-
-        return distance
+        
+        return res
