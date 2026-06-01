@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2375-construct-smallest-number-from-di-string](https://github.com/navaneethsankar07/flaq/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [3146-permutation-difference-between-two-strings](https://github.com/navaneethsankar07/flaq/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3210-find-the-encrypted-string](https://github.com/navaneethsankar07/flaq/tree/main/3210-find-the-encrypted-string/) | Easy |
+| [3582-generate-tag-for-video-caption](https://github.com/navaneethsankar07/flaq/tree/main/3582-generate-tag-for-video-caption/) | Easy |
 | [3803-count-residue-prefixes](https://github.com/navaneethsankar07/flaq/tree/main/3803-count-residue-prefixes/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/navaneethsankar07/flaq/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 ## Array
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2500-delete-greatest-value-in-each-row](https://github.com/navaneethsankar07/flaq/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/navaneethsankar07/flaq/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2739-total-distance-traveled](https://github.com/navaneethsankar07/flaq/tree/main/2739-total-distance-traveled/) | Easy |
+| [3582-generate-tag-for-video-caption](https://github.com/navaneethsankar07/flaq/tree/main/3582-generate-tag-for-video-caption/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/navaneethsankar07/flaq/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
