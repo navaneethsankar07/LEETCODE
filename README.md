@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1517-find-users-with-valid-e-mails](https://github.com/navaneethsankar07/flaq/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
+| [1978-employees-whose-manager-left-the-company](https://github.com/navaneethsankar07/flaq/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 | [3220-odd-and-even-transactions](https://github.com/navaneethsankar07/flaq/tree/main/3220-odd-and-even-transactions/) | Medium |
 | [3436-find-valid-emails](https://github.com/navaneethsankar07/flaq/tree/main/3436-find-valid-emails/) | Easy |
 ## Backtracking
