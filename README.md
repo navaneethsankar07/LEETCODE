@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1528-shuffle-string](https://github.com/navaneethsankar07/flaq/tree/main/1528-shuffle-string/) | Easy |
 | [1544-make-the-string-great](https://github.com/navaneethsankar07/flaq/tree/main/1544-make-the-string-great/) | Easy |
 | [1592-rearrange-spaces-between-words](https://github.com/navaneethsankar07/flaq/tree/main/1592-rearrange-spaces-between-words/) | Easy |
+| [1668-maximum-repeating-substring](https://github.com/navaneethsankar07/flaq/tree/main/1668-maximum-repeating-substring/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/navaneethsankar07/flaq/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/navaneethsankar07/flaq/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/navaneethsankar07/flaq/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
@@ -399,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0198-house-robber](https://github.com/navaneethsankar07/flaq/tree/main/0198-house-robber/) | Medium |
 | [0338-counting-bits](https://github.com/navaneethsankar07/flaq/tree/main/0338-counting-bits/) | Easy |
+| [1668-maximum-repeating-substring](https://github.com/navaneethsankar07/flaq/tree/main/1668-maximum-repeating-substring/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -538,6 +540,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/navaneethsankar07/flaq/tree/main/0796-rotate-string/) | Easy |
+| [1668-maximum-repeating-substring](https://github.com/navaneethsankar07/flaq/tree/main/1668-maximum-repeating-substring/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
