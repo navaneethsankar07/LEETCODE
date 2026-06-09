@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0804-unique-morse-code-words](https://github.com/navaneethsankar07/flaq/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1002-find-common-characters](https://github.com/navaneethsankar07/flaq/tree/main/1002-find-common-characters/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/navaneethsankar07/flaq/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1154-day-of-the-year](https://github.com/navaneethsankar07/flaq/tree/main/1154-day-of-the-year/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/navaneethsankar07/flaq/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/navaneethsankar07/flaq/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1268-search-suggestions-system](https://github.com/navaneethsankar07/flaq/tree/main/1268-search-suggestions-system/) | Medium |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/navaneethsankar07/flaq/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0836-rectangle-overlap](https://github.com/navaneethsankar07/flaq/tree/main/0836-rectangle-overlap/) | Easy |
 | [1037-valid-boomerang](https://github.com/navaneethsankar07/flaq/tree/main/1037-valid-boomerang/) | Easy |
+| [1154-day-of-the-year](https://github.com/navaneethsankar07/flaq/tree/main/1154-day-of-the-year/) | Easy |
 | [1185-day-of-the-week](https://github.com/navaneethsankar07/flaq/tree/main/1185-day-of-the-week/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/navaneethsankar07/flaq/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/navaneethsankar07/flaq/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
