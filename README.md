@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3582-generate-tag-for-video-caption](https://github.com/navaneethsankar07/flaq/tree/main/3582-generate-tag-for-video-caption/) | Easy |
 | [3803-count-residue-prefixes](https://github.com/navaneethsankar07/flaq/tree/main/3803-count-residue-prefixes/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/navaneethsankar07/flaq/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
+| [3931-check-adjacent-digit-differences](https://github.com/navaneethsankar07/flaq/tree/main/3931-check-adjacent-digit-differences/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
