@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1446-consecutive-characters](https://github.com/navaneethsankar07/flaq/tree/main/1446-consecutive-characters/) | Easy |
 | [1528-shuffle-string](https://github.com/navaneethsankar07/flaq/tree/main/1528-shuffle-string/) | Easy |
 | [1544-make-the-string-great](https://github.com/navaneethsankar07/flaq/tree/main/1544-make-the-string-great/) | Easy |
+| [1556-thousand-separator](https://github.com/navaneethsankar07/flaq/tree/main/1556-thousand-separator/) | Easy |
 | [1592-rearrange-spaces-between-words](https://github.com/navaneethsankar07/flaq/tree/main/1592-rearrange-spaces-between-words/) | Easy |
 | [1668-maximum-repeating-substring](https://github.com/navaneethsankar07/flaq/tree/main/1668-maximum-repeating-substring/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/navaneethsankar07/flaq/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
