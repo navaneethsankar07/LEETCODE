@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3146-permutation-difference-between-two-strings](https://github.com/navaneethsankar07/flaq/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3210-find-the-encrypted-string](https://github.com/navaneethsankar07/flaq/tree/main/3210-find-the-encrypted-string/) | Easy |
 | [3582-generate-tag-for-video-caption](https://github.com/navaneethsankar07/flaq/tree/main/3582-generate-tag-for-video-caption/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/navaneethsankar07/flaq/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3803-count-residue-prefixes](https://github.com/navaneethsankar07/flaq/tree/main/3803-count-residue-prefixes/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/navaneethsankar07/flaq/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 | [3931-check-adjacent-digit-differences](https://github.com/navaneethsankar07/flaq/tree/main/3931-check-adjacent-digit-differences/) | Easy |
@@ -214,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2739-total-distance-traveled](https://github.com/navaneethsankar07/flaq/tree/main/2739-total-distance-traveled/) | Easy |
 | [3360-stone-removal-game](https://github.com/navaneethsankar07/flaq/tree/main/3360-stone-removal-game/) | Easy |
 | [3582-generate-tag-for-video-caption](https://github.com/navaneethsankar07/flaq/tree/main/3582-generate-tag-for-video-caption/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/navaneethsankar07/flaq/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3842-toggle-light-bulbs](https://github.com/navaneethsankar07/flaq/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
