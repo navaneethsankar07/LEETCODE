@@ -11,4 +11,5 @@ select
     ) as poor_query_percentage
 
 from queries
+where query_name is not Null
 group by query_name;
