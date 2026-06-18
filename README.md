@@ -181,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1154-day-of-the-year](https://github.com/navaneethsankar07/flaq/tree/main/1154-day-of-the-year/) | Easy |
 | [1185-day-of-the-week](https://github.com/navaneethsankar07/flaq/tree/main/1185-day-of-the-week/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/navaneethsankar07/flaq/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+| [1344-angle-between-hands-of-a-clock](https://github.com/navaneethsankar07/flaq/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/navaneethsankar07/flaq/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1837-sum-of-digits-in-base-k](https://github.com/navaneethsankar07/flaq/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/navaneethsankar07/flaq/tree/main/1903-largest-odd-number-in-string/) | Easy |
