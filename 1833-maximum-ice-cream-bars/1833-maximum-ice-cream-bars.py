@@ -1,9 +1,12 @@
 class Solution:
     def maxIceCream(self, costs: List[int], coins: int) -> int:
         costs.sort()
-        total = 0
+        ice_creams = 0
         for x in costs:
             if coins >= x:
-                total += 1
+                ice_creams += 1
                 coins -= x
-        return total
+            else:
+                break
+
+        return ice_creams
