@@ -198,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2739-total-distance-traveled](https://github.com/navaneethsankar07/flaq/tree/main/2739-total-distance-traveled/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/navaneethsankar07/flaq/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3232-find-if-digit-game-can-be-won](https://github.com/navaneethsankar07/flaq/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
+| [3270-find-the-key-of-the-numbers](https://github.com/navaneethsankar07/flaq/tree/main/3270-find-the-key-of-the-numbers/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/navaneethsankar07/flaq/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3360-stone-removal-game](https://github.com/navaneethsankar07/flaq/tree/main/3360-stone-removal-game/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/navaneethsankar07/flaq/tree/main/3536-maximum-product-of-two-digits/) | Easy |
