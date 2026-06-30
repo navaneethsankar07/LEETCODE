@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1122-relative-sort-array](https://github.com/navaneethsankar07/flaq/tree/main/1122-relative-sort-array/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/navaneethsankar07/flaq/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/navaneethsankar07/flaq/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/navaneethsankar07/flaq/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1436-destination-city](https://github.com/navaneethsankar07/flaq/tree/main/1436-destination-city/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/navaneethsankar07/flaq/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/navaneethsankar07/flaq/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/navaneethsankar07/flaq/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/navaneethsankar07/flaq/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1268-search-suggestions-system](https://github.com/navaneethsankar07/flaq/tree/main/1268-search-suggestions-system/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/navaneethsankar07/flaq/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1436-destination-city](https://github.com/navaneethsankar07/flaq/tree/main/1436-destination-city/) | Easy |
 | [1446-consecutive-characters](https://github.com/navaneethsankar07/flaq/tree/main/1446-consecutive-characters/) | Easy |
 | [1528-shuffle-string](https://github.com/navaneethsankar07/flaq/tree/main/1528-shuffle-string/) | Easy |
@@ -585,6 +587,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/navaneethsankar07/flaq/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/navaneethsankar07/flaq/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
