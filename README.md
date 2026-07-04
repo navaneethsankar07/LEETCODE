@@ -208,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/navaneethsankar07/flaq/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3360-stone-removal-game](https://github.com/navaneethsankar07/flaq/tree/main/3360-stone-removal-game/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/navaneethsankar07/flaq/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/navaneethsankar07/flaq/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/navaneethsankar07/flaq/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/navaneethsankar07/flaq/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3895-count-digit-appearances](https://github.com/navaneethsankar07/flaq/tree/main/3895-count-digit-appearances/) | Medium |
@@ -236,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3360-stone-removal-game](https://github.com/navaneethsankar07/flaq/tree/main/3360-stone-removal-game/) | Easy |
 | [3582-generate-tag-for-video-caption](https://github.com/navaneethsankar07/flaq/tree/main/3582-generate-tag-for-video-caption/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/navaneethsankar07/flaq/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/navaneethsankar07/flaq/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/navaneethsankar07/flaq/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
