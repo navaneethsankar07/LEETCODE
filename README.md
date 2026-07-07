@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/navaneethsankar07/flaq/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/navaneethsankar07/flaq/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2325-decode-the-message](https://github.com/navaneethsankar07/flaq/tree/main/2325-decode-the-message/) | Easy |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/navaneethsankar07/flaq/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2363-merge-similar-items](https://github.com/navaneethsankar07/flaq/tree/main/2363-merge-similar-items/) | Easy |
 | [2540-minimum-common-value](https://github.com/navaneethsankar07/flaq/tree/main/2540-minimum-common-value/) | Easy |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/navaneethsankar07/flaq/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2078-two-furthest-houses-with-different-colors](https://github.com/navaneethsankar07/flaq/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/navaneethsankar07/flaq/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2239-find-closest-number-to-zero](https://github.com/navaneethsankar07/flaq/tree/main/2239-find-closest-number-to-zero/) | Easy |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/navaneethsankar07/flaq/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2363-merge-similar-items](https://github.com/navaneethsankar07/flaq/tree/main/2363-merge-similar-items/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/navaneethsankar07/flaq/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/navaneethsankar07/flaq/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
@@ -293,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/navaneethsankar07/flaq/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/navaneethsankar07/flaq/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/navaneethsankar07/flaq/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/navaneethsankar07/flaq/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [3866-first-unique-even-element](https://github.com/navaneethsankar07/flaq/tree/main/3866-first-unique-even-element/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
