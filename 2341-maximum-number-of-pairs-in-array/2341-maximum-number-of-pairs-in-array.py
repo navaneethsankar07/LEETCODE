@@ -7,7 +7,6 @@ class Solution:
 
         for x, y in freq.items():
             pairs = y//2
-            print(pairs, y)
             num_of_pairs += pairs
             remaining += (y - 2* pairs)
         
