@@ -5,7 +5,8 @@ class Solution:
         square_sum = 0
 
         for x in n:
-            digit_sum += int(x)
-            square_sum += int(x)**2
+            d = int(x)
+            digit_sum += d
+            square_sum += d**2
         
         return square_sum - digit_sum >= 50
