@@ -157,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/navaneethsankar07/flaq/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3842-toggle-light-bulbs](https://github.com/navaneethsankar07/flaq/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3866-first-unique-even-element](https://github.com/navaneethsankar07/flaq/tree/main/3866-first-unique-even-element/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/navaneethsankar07/flaq/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3895-count-digit-appearances](https://github.com/navaneethsankar07/flaq/tree/main/3895-count-digit-appearances/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -217,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3726-remove-zeros-in-decimal-representation](https://github.com/navaneethsankar07/flaq/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/navaneethsankar07/flaq/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/navaneethsankar07/flaq/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/navaneethsankar07/flaq/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3895-count-digit-appearances](https://github.com/navaneethsankar07/flaq/tree/main/3895-count-digit-appearances/) | Medium |
 | [3945-digit-frequency-score](https://github.com/navaneethsankar07/flaq/tree/main/3945-digit-frequency-score/) | Easy |
 ## Greedy
@@ -246,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3612-process-string-with-special-operations-i](https://github.com/navaneethsankar07/flaq/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/navaneethsankar07/flaq/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/navaneethsankar07/flaq/tree/main/3842-toggle-light-bulbs/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/navaneethsankar07/flaq/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -277,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3536-maximum-product-of-two-digits](https://github.com/navaneethsankar07/flaq/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/navaneethsankar07/flaq/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/navaneethsankar07/flaq/tree/main/3842-toggle-light-bulbs/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/navaneethsankar07/flaq/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -325,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2540-minimum-common-value](https://github.com/navaneethsankar07/flaq/tree/main/2540-minimum-common-value/) | Easy |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/navaneethsankar07/flaq/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/navaneethsankar07/flaq/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/navaneethsankar07/flaq/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3884-first-matching-character-from-both-ends](https://github.com/navaneethsankar07/flaq/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -420,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/navaneethsankar07/flaq/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/navaneethsankar07/flaq/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/navaneethsankar07/flaq/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
