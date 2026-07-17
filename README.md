@@ -239,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0682-baseball-game](https://github.com/navaneethsankar07/flaq/tree/main/0682-baseball-game/) | Easy |
 | [0867-transpose-matrix](https://github.com/navaneethsankar07/flaq/tree/main/0867-transpose-matrix/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/navaneethsankar07/flaq/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
+| [1603-design-parking-system](https://github.com/navaneethsankar07/flaq/tree/main/1603-design-parking-system/) | Easy |
 | [1929-concatenation-of-array](https://github.com/navaneethsankar07/flaq/tree/main/1929-concatenation-of-array/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/navaneethsankar07/flaq/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/navaneethsankar07/flaq/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -301,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/navaneethsankar07/flaq/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/navaneethsankar07/flaq/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/navaneethsankar07/flaq/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1603-design-parking-system](https://github.com/navaneethsankar07/flaq/tree/main/1603-design-parking-system/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/navaneethsankar07/flaq/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/navaneethsankar07/flaq/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [3866-first-unique-even-element](https://github.com/navaneethsankar07/flaq/tree/main/3866-first-unique-even-element/) | Easy |
@@ -411,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0933-number-of-recent-calls](https://github.com/navaneethsankar07/flaq/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1381-design-a-stack-with-increment-operation](https://github.com/navaneethsankar07/flaq/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1472-design-browser-history](https://github.com/navaneethsankar07/flaq/tree/main/1472-design-browser-history/) | Medium |
+| [1603-design-parking-system](https://github.com/navaneethsankar07/flaq/tree/main/1603-design-parking-system/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
