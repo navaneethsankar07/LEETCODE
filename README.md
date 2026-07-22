@@ -396,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/navaneethsankar07/flaq/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/navaneethsankar07/flaq/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/navaneethsankar07/flaq/tree/main/0155-min-stack/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/navaneethsankar07/flaq/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/navaneethsankar07/flaq/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/navaneethsankar07/flaq/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/navaneethsankar07/flaq/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -413,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/navaneethsankar07/flaq/tree/main/0155-min-stack/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/navaneethsankar07/flaq/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/navaneethsankar07/flaq/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/navaneethsankar07/flaq/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/navaneethsankar07/flaq/tree/main/0225-implement-stack-using-queues/) | Easy |
@@ -505,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/navaneethsankar07/flaq/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/navaneethsankar07/flaq/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/navaneethsankar07/flaq/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0173-binary-search-tree-iterator](https://github.com/navaneethsankar07/flaq/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/navaneethsankar07/flaq/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/navaneethsankar07/flaq/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/navaneethsankar07/flaq/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -590,6 +593,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/navaneethsankar07/flaq/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/navaneethsankar07/flaq/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/navaneethsankar07/flaq/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0173-binary-search-tree-iterator](https://github.com/navaneethsankar07/flaq/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/navaneethsankar07/flaq/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/navaneethsankar07/flaq/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/navaneethsankar07/flaq/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -611,6 +615,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/navaneethsankar07/flaq/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/navaneethsankar07/flaq/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0173-binary-search-tree-iterator](https://github.com/navaneethsankar07/flaq/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/navaneethsankar07/flaq/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/navaneethsankar07/flaq/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/navaneethsankar07/flaq/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
@@ -677,4 +682,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/navaneethsankar07/flaq/tree/main/0207-course-schedule/) | Medium |
+## Iterator
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/navaneethsankar07/flaq/tree/main/0173-binary-search-tree-iterator/) | Medium |
 <!---LeetCode Topics End-->
