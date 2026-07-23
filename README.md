@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/navaneethsankar07/flaq/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/navaneethsankar07/flaq/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0409-longest-palindrome](https://github.com/navaneethsankar07/flaq/tree/main/0409-longest-palindrome/) | Easy |
+| [0496-next-greater-element-i](https://github.com/navaneethsankar07/flaq/tree/main/0496-next-greater-element-i/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/navaneethsankar07/flaq/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0705-design-hashset](https://github.com/navaneethsankar07/flaq/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/navaneethsankar07/flaq/tree/main/0706-design-hashmap/) | Easy |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/navaneethsankar07/flaq/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/navaneethsankar07/flaq/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/navaneethsankar07/flaq/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0496-next-greater-element-i](https://github.com/navaneethsankar07/flaq/tree/main/0496-next-greater-element-i/) | Easy |
 | [0561-array-partition](https://github.com/navaneethsankar07/flaq/tree/main/0561-array-partition/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/navaneethsankar07/flaq/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0682-baseball-game](https://github.com/navaneethsankar07/flaq/tree/main/0682-baseball-game/) | Easy |
@@ -400,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/navaneethsankar07/flaq/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/navaneethsankar07/flaq/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/navaneethsankar07/flaq/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0496-next-greater-element-i](https://github.com/navaneethsankar07/flaq/tree/main/0496-next-greater-element-i/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/navaneethsankar07/flaq/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0682-baseball-game](https://github.com/navaneethsankar07/flaq/tree/main/0682-baseball-game/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/navaneethsankar07/flaq/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -461,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/navaneethsankar07/flaq/tree/main/0496-next-greater-element-i/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/navaneethsankar07/flaq/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/navaneethsankar07/flaq/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Queue
