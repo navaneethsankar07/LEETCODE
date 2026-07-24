@@ -5,7 +5,7 @@ class Solution:
             total = 0
             for y in x:
                 total += weights[ord(y)-97]
-            ans.append(total)
+            ans.append(chr(122-total%26))
         
         
-        return ''.join([chr(122-x%26) for x in ans])
+        return ''.join(ans)
