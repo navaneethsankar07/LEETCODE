@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0867-transpose-matrix](https://github.com/navaneethsankar07/flaq/tree/main/0867-transpose-matrix/) | Easy |
 | [0912-sort-an-array](https://github.com/navaneethsankar07/flaq/tree/main/0912-sort-an-array/) | Medium |
 | [1002-find-common-characters](https://github.com/navaneethsankar07/flaq/tree/main/1002-find-common-characters/) | Easy |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/navaneethsankar07/flaq/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1037-valid-boomerang](https://github.com/navaneethsankar07/flaq/tree/main/1037-valid-boomerang/) | Easy |
 | [1046-last-stone-weight](https://github.com/navaneethsankar07/flaq/tree/main/1046-last-stone-weight/) | Easy |
 | [1122-relative-sort-array](https://github.com/navaneethsankar07/flaq/tree/main/1122-relative-sort-array/) | Easy |
@@ -408,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/navaneethsankar07/flaq/tree/main/0496-next-greater-element-i/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/navaneethsankar07/flaq/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0682-baseball-game](https://github.com/navaneethsankar07/flaq/tree/main/0682-baseball-game/) | Easy |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/navaneethsankar07/flaq/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/navaneethsankar07/flaq/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/navaneethsankar07/flaq/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1381-design-a-stack-with-increment-operation](https://github.com/navaneethsankar07/flaq/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
@@ -468,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/navaneethsankar07/flaq/tree/main/0496-next-greater-element-i/) | Easy |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/navaneethsankar07/flaq/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/navaneethsankar07/flaq/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/navaneethsankar07/flaq/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Queue
@@ -529,6 +532,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0700-search-in-a-binary-search-tree](https://github.com/navaneethsankar07/flaq/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/navaneethsankar07/flaq/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/navaneethsankar07/flaq/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/navaneethsankar07/flaq/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/navaneethsankar07/flaq/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/navaneethsankar07/flaq/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/navaneethsankar07/flaq/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -613,6 +617,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0700-search-in-a-binary-search-tree](https://github.com/navaneethsankar07/flaq/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/navaneethsankar07/flaq/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/navaneethsankar07/flaq/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/navaneethsankar07/flaq/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/navaneethsankar07/flaq/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/navaneethsankar07/flaq/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/navaneethsankar07/flaq/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -630,6 +635,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0700-search-in-a-binary-search-tree](https://github.com/navaneethsankar07/flaq/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/navaneethsankar07/flaq/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/navaneethsankar07/flaq/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/navaneethsankar07/flaq/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
