@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0804-unique-morse-code-words](https://github.com/navaneethsankar07/flaq/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0867-transpose-matrix](https://github.com/navaneethsankar07/flaq/tree/main/0867-transpose-matrix/) | Easy |
 | [0912-sort-an-array](https://github.com/navaneethsankar07/flaq/tree/main/0912-sort-an-array/) | Medium |
+| [0962-maximum-width-ramp](https://github.com/navaneethsankar07/flaq/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1002-find-common-characters](https://github.com/navaneethsankar07/flaq/tree/main/1002-find-common-characters/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/navaneethsankar07/flaq/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1037-valid-boomerang](https://github.com/navaneethsankar07/flaq/tree/main/1037-valid-boomerang/) | Easy |
@@ -341,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/navaneethsankar07/flaq/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/navaneethsankar07/flaq/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/navaneethsankar07/flaq/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [0962-maximum-width-ramp](https://github.com/navaneethsankar07/flaq/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/navaneethsankar07/flaq/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/navaneethsankar07/flaq/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2540-minimum-common-value](https://github.com/navaneethsankar07/flaq/tree/main/2540-minimum-common-value/) | Easy |
@@ -409,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/navaneethsankar07/flaq/tree/main/0496-next-greater-element-i/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/navaneethsankar07/flaq/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0682-baseball-game](https://github.com/navaneethsankar07/flaq/tree/main/0682-baseball-game/) | Easy |
+| [0962-maximum-width-ramp](https://github.com/navaneethsankar07/flaq/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/navaneethsankar07/flaq/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/navaneethsankar07/flaq/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/navaneethsankar07/flaq/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -470,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/navaneethsankar07/flaq/tree/main/0496-next-greater-element-i/) | Easy |
+| [0962-maximum-width-ramp](https://github.com/navaneethsankar07/flaq/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/navaneethsankar07/flaq/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/navaneethsankar07/flaq/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/navaneethsankar07/flaq/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
