@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2078-two-furthest-houses-with-different-colors](https://github.com/navaneethsankar07/flaq/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/navaneethsankar07/flaq/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2239-find-closest-number-to-zero](https://github.com/navaneethsankar07/flaq/tree/main/2239-find-closest-number-to-zero/) | Easy |
+| [2293-min-max-game](https://github.com/navaneethsankar07/flaq/tree/main/2293-min-max-game/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/navaneethsankar07/flaq/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2363-merge-similar-items](https://github.com/navaneethsankar07/flaq/tree/main/2363-merge-similar-items/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/navaneethsankar07/flaq/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
@@ -254,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1441-build-an-array-with-stack-operations](https://github.com/navaneethsankar07/flaq/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1603-design-parking-system](https://github.com/navaneethsankar07/flaq/tree/main/1603-design-parking-system/) | Easy |
 | [1929-concatenation-of-array](https://github.com/navaneethsankar07/flaq/tree/main/1929-concatenation-of-array/) | Easy |
+| [2293-min-max-game](https://github.com/navaneethsankar07/flaq/tree/main/2293-min-max-game/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/navaneethsankar07/flaq/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/navaneethsankar07/flaq/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2739-total-distance-traveled](https://github.com/navaneethsankar07/flaq/tree/main/2739-total-distance-traveled/) | Easy |
