@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1441-build-an-array-with-stack-operations](https://github.com/navaneethsankar07/flaq/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/navaneethsankar07/flaq/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1472-design-browser-history](https://github.com/navaneethsankar07/flaq/tree/main/1472-design-browser-history/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/navaneethsankar07/flaq/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1528-shuffle-string](https://github.com/navaneethsankar07/flaq/tree/main/1528-shuffle-string/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/navaneethsankar07/flaq/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/navaneethsankar07/flaq/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -423,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1381-design-a-stack-with-increment-operation](https://github.com/navaneethsankar07/flaq/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/navaneethsankar07/flaq/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1472-design-browser-history](https://github.com/navaneethsankar07/flaq/tree/main/1472-design-browser-history/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/navaneethsankar07/flaq/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1544-make-the-string-great](https://github.com/navaneethsankar07/flaq/tree/main/1544-make-the-string-great/) | Easy |
 | [2375-construct-smallest-number-from-di-string](https://github.com/navaneethsankar07/flaq/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/navaneethsankar07/flaq/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
@@ -481,6 +483,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0962-maximum-width-ramp](https://github.com/navaneethsankar07/flaq/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/navaneethsankar07/flaq/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/navaneethsankar07/flaq/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/navaneethsankar07/flaq/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [2487-remove-nodes-from-linked-list](https://github.com/navaneethsankar07/flaq/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
