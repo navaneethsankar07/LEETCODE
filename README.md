@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/navaneethsankar07/flaq/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/navaneethsankar07/flaq/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0290-word-pattern](https://github.com/navaneethsankar07/flaq/tree/main/0290-word-pattern/) | Easy |
+| [0394-decode-string](https://github.com/navaneethsankar07/flaq/tree/main/0394-decode-string/) | Medium |
 | [0409-longest-palindrome](https://github.com/navaneethsankar07/flaq/tree/main/0409-longest-palindrome/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/navaneethsankar07/flaq/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0482-license-key-formatting](https://github.com/navaneethsankar07/flaq/tree/main/0482-license-key-formatting/) | Easy |
@@ -404,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0203-remove-linked-list-elements](https://github.com/navaneethsankar07/flaq/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/navaneethsankar07/flaq/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/navaneethsankar07/flaq/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0394-decode-string](https://github.com/navaneethsankar07/flaq/tree/main/0394-decode-string/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/navaneethsankar07/flaq/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -417,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/navaneethsankar07/flaq/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/navaneethsankar07/flaq/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/navaneethsankar07/flaq/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0394-decode-string](https://github.com/navaneethsankar07/flaq/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/navaneethsankar07/flaq/tree/main/0496-next-greater-element-i/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/navaneethsankar07/flaq/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0682-baseball-game](https://github.com/navaneethsankar07/flaq/tree/main/0682-baseball-game/) | Easy |
