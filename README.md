@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2375-construct-smallest-number-from-di-string](https://github.com/navaneethsankar07/flaq/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [3146-permutation-difference-between-two-strings](https://github.com/navaneethsankar07/flaq/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3210-find-the-encrypted-string](https://github.com/navaneethsankar07/flaq/tree/main/3210-find-the-encrypted-string/) | Easy |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/navaneethsankar07/flaq/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3582-generate-tag-for-video-caption](https://github.com/navaneethsankar07/flaq/tree/main/3582-generate-tag-for-video-caption/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/navaneethsankar07/flaq/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3803-count-residue-prefixes](https://github.com/navaneethsankar07/flaq/tree/main/3803-count-residue-prefixes/) | Easy |
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3270-find-the-key-of-the-numbers](https://github.com/navaneethsankar07/flaq/tree/main/3270-find-the-key-of-the-numbers/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/navaneethsankar07/flaq/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3360-stone-removal-game](https://github.com/navaneethsankar07/flaq/tree/main/3360-stone-removal-game/) | Easy |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/navaneethsankar07/flaq/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/navaneethsankar07/flaq/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/navaneethsankar07/flaq/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/navaneethsankar07/flaq/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
@@ -262,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2739-total-distance-traveled](https://github.com/navaneethsankar07/flaq/tree/main/2739-total-distance-traveled/) | Easy |
 | [2960-count-tested-devices-after-test-operations](https://github.com/navaneethsankar07/flaq/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
 | [3360-stone-removal-game](https://github.com/navaneethsankar07/flaq/tree/main/3360-stone-removal-game/) | Easy |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/navaneethsankar07/flaq/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3582-generate-tag-for-video-caption](https://github.com/navaneethsankar07/flaq/tree/main/3582-generate-tag-for-video-caption/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/navaneethsankar07/flaq/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/navaneethsankar07/flaq/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
@@ -458,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/navaneethsankar07/flaq/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/navaneethsankar07/flaq/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/navaneethsankar07/flaq/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/navaneethsankar07/flaq/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/navaneethsankar07/flaq/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Counting Sort
@@ -699,6 +703,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1641-count-sorted-vowel-strings](https://github.com/navaneethsankar07/flaq/tree/main/1641-count-sorted-vowel-strings/) | Medium |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/navaneethsankar07/flaq/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
