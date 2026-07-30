@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/navaneethsankar07/flaq/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2325-decode-the-message](https://github.com/navaneethsankar07/flaq/tree/main/2325-decode-the-message/) | Easy |
 | [2375-construct-smallest-number-from-di-string](https://github.com/navaneethsankar07/flaq/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/navaneethsankar07/flaq/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3146-permutation-difference-between-two-strings](https://github.com/navaneethsankar07/flaq/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3210-find-the-encrypted-string](https://github.com/navaneethsankar07/flaq/tree/main/3210-find-the-encrypted-string/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/navaneethsankar07/flaq/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
@@ -225,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/navaneethsankar07/flaq/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2739-total-distance-traveled](https://github.com/navaneethsankar07/flaq/tree/main/2739-total-distance-traveled/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/navaneethsankar07/flaq/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/navaneethsankar07/flaq/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/navaneethsankar07/flaq/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3270-find-the-key-of-the-numbers](https://github.com/navaneethsankar07/flaq/tree/main/3270-find-the-key-of-the-numbers/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/navaneethsankar07/flaq/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -250,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2078-two-furthest-houses-with-different-colors](https://github.com/navaneethsankar07/flaq/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/navaneethsankar07/flaq/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2375-construct-smallest-number-from-di-string](https://github.com/navaneethsankar07/flaq/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/navaneethsankar07/flaq/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/navaneethsankar07/flaq/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
