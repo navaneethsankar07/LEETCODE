@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1122-relative-sort-array](https://github.com/navaneethsankar07/flaq/tree/main/1122-relative-sort-array/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/navaneethsankar07/flaq/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/navaneethsankar07/flaq/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/navaneethsankar07/flaq/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/navaneethsankar07/flaq/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1436-destination-city](https://github.com/navaneethsankar07/flaq/tree/main/1436-destination-city/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/navaneethsankar07/flaq/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
@@ -450,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0706-design-hashmap](https://github.com/navaneethsankar07/flaq/tree/main/0706-design-hashmap/) | Easy |
 | [0707-design-linked-list](https://github.com/navaneethsankar07/flaq/tree/main/0707-design-linked-list/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/navaneethsankar07/flaq/tree/main/0933-number-of-recent-calls/) | Easy |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/navaneethsankar07/flaq/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 | [1381-design-a-stack-with-increment-operation](https://github.com/navaneethsankar07/flaq/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1472-design-browser-history](https://github.com/navaneethsankar07/flaq/tree/main/1472-design-browser-history/) | Medium |
 | [1603-design-parking-system](https://github.com/navaneethsankar07/flaq/tree/main/1603-design-parking-system/) | Easy |
@@ -555,6 +557,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0701-insert-into-a-binary-search-tree](https://github.com/navaneethsankar07/flaq/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/navaneethsankar07/flaq/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/navaneethsankar07/flaq/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/navaneethsankar07/flaq/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/navaneethsankar07/flaq/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/navaneethsankar07/flaq/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/navaneethsankar07/flaq/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -585,6 +588,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/navaneethsankar07/flaq/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0841-keys-and-rooms](https://github.com/navaneethsankar07/flaq/tree/main/0841-keys-and-rooms/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/navaneethsankar07/flaq/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/navaneethsankar07/flaq/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/navaneethsankar07/flaq/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/navaneethsankar07/flaq/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/navaneethsankar07/flaq/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -607,6 +611,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0617-merge-two-binary-trees](https://github.com/navaneethsankar07/flaq/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/navaneethsankar07/flaq/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0841-keys-and-rooms](https://github.com/navaneethsankar07/flaq/tree/main/0841-keys-and-rooms/) | Medium |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/navaneethsankar07/flaq/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/navaneethsankar07/flaq/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/navaneethsankar07/flaq/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/navaneethsankar07/flaq/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -640,6 +645,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0701-insert-into-a-binary-search-tree](https://github.com/navaneethsankar07/flaq/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/navaneethsankar07/flaq/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/navaneethsankar07/flaq/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/navaneethsankar07/flaq/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/navaneethsankar07/flaq/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/navaneethsankar07/flaq/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/navaneethsankar07/flaq/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
