@@ -1,13 +1,14 @@
 class Solution:
     def stringHash(self, s: str, k: int) -> str:
-        result = []
-        total = 0
+        result = ''
+        for x in range(0, len(s), k):
+            total = 0
+            for x in s[x:x+k]:
+                total += ord(x) - 97
+            
+            total = total % 26
 
-        for i, char in enumerate(s):
-            total += ord(char) - 97
+            char = chr(total + 97)
+            result += char
 
-            if (i+1) % k == 0:
-                result.append(chr((total%26) + 97))
-                total = 0
-        
-        return ''.join(result)
+        return result 
