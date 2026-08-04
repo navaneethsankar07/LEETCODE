@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3582-generate-tag-for-video-caption](https://github.com/navaneethsankar07/flaq/tree/main/3582-generate-tag-for-video-caption/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/navaneethsankar07/flaq/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3803-count-residue-prefixes](https://github.com/navaneethsankar07/flaq/tree/main/3803-count-residue-prefixes/) | Easy |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/navaneethsankar07/flaq/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/navaneethsankar07/flaq/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/navaneethsankar07/flaq/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 | [3931-check-adjacent-digit-differences](https://github.com/navaneethsankar07/flaq/tree/main/3931-check-adjacent-digit-differences/) | Easy |
@@ -276,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3582-generate-tag-for-video-caption](https://github.com/navaneethsankar07/flaq/tree/main/3582-generate-tag-for-video-caption/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/navaneethsankar07/flaq/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/navaneethsankar07/flaq/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/navaneethsankar07/flaq/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/navaneethsankar07/flaq/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/navaneethsankar07/flaq/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/navaneethsankar07/flaq/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -366,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2540-minimum-common-value](https://github.com/navaneethsankar07/flaq/tree/main/2540-minimum-common-value/) | Easy |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/navaneethsankar07/flaq/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/navaneethsankar07/flaq/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/navaneethsankar07/flaq/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/navaneethsankar07/flaq/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3884-first-matching-character-from-both-ends](https://github.com/navaneethsankar07/flaq/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 ## Bit Manipulation
