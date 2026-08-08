@@ -570,6 +570,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/navaneethsankar07/flaq/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/navaneethsankar07/flaq/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/navaneethsankar07/flaq/tree/main/1302-deepest-leaves-sum/) | Medium |
+| [1325-delete-leaves-with-a-given-value](https://github.com/navaneethsankar07/flaq/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/navaneethsankar07/flaq/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/navaneethsankar07/flaq/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/navaneethsankar07/flaq/tree/main/2236-root-equals-sum-of-children/) | Easy |
@@ -601,6 +602,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0938-range-sum-of-bst](https://github.com/navaneethsankar07/flaq/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/navaneethsankar07/flaq/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/navaneethsankar07/flaq/tree/main/1302-deepest-leaves-sum/) | Medium |
+| [1325-delete-leaves-with-a-given-value](https://github.com/navaneethsankar07/flaq/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/navaneethsankar07/flaq/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/navaneethsankar07/flaq/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/navaneethsankar07/flaq/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -658,6 +660,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/navaneethsankar07/flaq/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/navaneethsankar07/flaq/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/navaneethsankar07/flaq/tree/main/1302-deepest-leaves-sum/) | Medium |
+| [1325-delete-leaves-with-a-given-value](https://github.com/navaneethsankar07/flaq/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/navaneethsankar07/flaq/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/navaneethsankar07/flaq/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/navaneethsankar07/flaq/tree/main/2236-root-equals-sum-of-children/) | Easy |
