@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/navaneethsankar07/flaq/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0496-next-greater-element-i](https://github.com/navaneethsankar07/flaq/tree/main/0496-next-greater-element-i/) | Easy |
 | [0561-array-partition](https://github.com/navaneethsankar07/flaq/tree/main/0561-array-partition/) | Easy |
+| [0605-can-place-flowers](https://github.com/navaneethsankar07/flaq/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/navaneethsankar07/flaq/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0682-baseball-game](https://github.com/navaneethsankar07/flaq/tree/main/0682-baseball-game/) | Easy |
 | [0705-design-hashset](https://github.com/navaneethsankar07/flaq/tree/main/0705-design-hashset/) | Easy |
@@ -251,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0409-longest-palindrome](https://github.com/navaneethsankar07/flaq/tree/main/0409-longest-palindrome/) | Easy |
 | [0561-array-partition](https://github.com/navaneethsankar07/flaq/tree/main/0561-array-partition/) | Easy |
+| [0605-can-place-flowers](https://github.com/navaneethsankar07/flaq/tree/main/0605-can-place-flowers/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/navaneethsankar07/flaq/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/navaneethsankar07/flaq/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/navaneethsankar07/flaq/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
