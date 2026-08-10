@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/navaneethsankar07/flaq/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/navaneethsankar07/flaq/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/navaneethsankar07/flaq/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/navaneethsankar07/flaq/tree/main/1909-remove-one-element-to-make-the-array-strictly-increasing/) | Easy |
 | [1929-concatenation-of-array](https://github.com/navaneethsankar07/flaq/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/navaneethsankar07/flaq/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/navaneethsankar07/flaq/tree/main/1980-find-unique-binary-string/) | Medium |
