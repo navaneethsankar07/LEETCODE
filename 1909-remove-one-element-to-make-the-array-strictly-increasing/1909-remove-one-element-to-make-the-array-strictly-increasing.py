@@ -1,9 +1,15 @@
 class Solution:
     def canBeIncreasing(self, nums: List[int]) -> bool:
-        for x in range(len(nums)):
-            new_list = nums.copy()
-            new_list.pop(x)
-            if new_list == sorted(set(new_list)):
-                return True
+        removed = False
+
+        for x in range(1, len(nums)):
+            if nums[x-1] >= nums[x]:
+                if removed:
+                    return False
+                
+                removed = True
+
+                if x >= 2 and nums[x-2] >= nums[x]:
+                    nums[x] = nums[x-1]
         
-        return False
+        return True
