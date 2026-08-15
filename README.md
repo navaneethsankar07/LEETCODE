@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2960-count-tested-devices-after-test-operations](https://github.com/navaneethsankar07/flaq/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/navaneethsankar07/flaq/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/navaneethsankar07/flaq/tree/main/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
+| [3074-apple-redistribution-into-boxes](https://github.com/navaneethsankar07/flaq/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/navaneethsankar07/flaq/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3232-find-if-digit-game-can-be-won](https://github.com/navaneethsankar07/flaq/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/navaneethsankar07/flaq/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -268,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/navaneethsankar07/flaq/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2375-construct-smallest-number-from-di-string](https://github.com/navaneethsankar07/flaq/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/navaneethsankar07/flaq/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3074-apple-redistribution-into-boxes](https://github.com/navaneethsankar07/flaq/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/navaneethsankar07/flaq/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -323,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2363-merge-similar-items](https://github.com/navaneethsankar07/flaq/tree/main/2363-merge-similar-items/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/navaneethsankar07/flaq/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/navaneethsankar07/flaq/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3074-apple-redistribution-into-boxes](https://github.com/navaneethsankar07/flaq/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/navaneethsankar07/flaq/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/navaneethsankar07/flaq/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/navaneethsankar07/flaq/tree/main/3842-toggle-light-bulbs/) | Easy |
