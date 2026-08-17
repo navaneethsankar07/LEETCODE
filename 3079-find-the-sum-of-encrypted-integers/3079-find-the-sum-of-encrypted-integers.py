@@ -2,18 +2,12 @@ class Solution:
     def sumOfEncryptedInt(self, nums: List[int]) -> int:
         total = 0
         for x in nums:
-            max_digit = 0
-            ones_base = 0
-
-            while x > 0:
-                digit = x % 10
-                if digit > max_digit:
-                    max_digit = digit
-
-                ones_base = ones_base * 10 + 1
-
-                x //= 10
+            if len(str(x)) > 1:
+                max_digit = max(str(x))
+                new_num = max_digit * len(str(x))
+                total += int(new_num)
             
-            total +=  max_digit * ones_base
+            else:
+                total += x
         
         return total
