@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3803-count-residue-prefixes](https://github.com/navaneethsankar07/flaq/tree/main/3803-count-residue-prefixes/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/navaneethsankar07/flaq/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3866-first-unique-even-element](https://github.com/navaneethsankar07/flaq/tree/main/3866-first-unique-even-element/) | Easy |
+| [3941-password-strength](https://github.com/navaneethsankar07/flaq/tree/main/3941-password-strength/) | Medium |
 | [3945-digit-frequency-score](https://github.com/navaneethsankar07/flaq/tree/main/3945-digit-frequency-score/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3856-trim-trailing-vowels](https://github.com/navaneethsankar07/flaq/tree/main/3856-trim-trailing-vowels/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/navaneethsankar07/flaq/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 | [3931-check-adjacent-digit-differences](https://github.com/navaneethsankar07/flaq/tree/main/3931-check-adjacent-digit-differences/) | Easy |
+| [3941-password-strength](https://github.com/navaneethsankar07/flaq/tree/main/3941-password-strength/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
