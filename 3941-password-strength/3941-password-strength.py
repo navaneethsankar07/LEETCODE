@@ -1,18 +1,15 @@
 class Solution:
     def passwordStrength(self, password: str) -> int:
-        visited = set()
         strength = 0
-        for x in password:
-            if x.islower() and x not in visited:
+        for x in set(password):
+            if x.islower() :
                 strength += 1
-            elif x.isupper() and x not in visited:
+            elif x.isupper():
                 strength += 2
-            elif x.isdigit() and x not in visited:
+            elif x.isdigit():
                 strength += 3
-            elif x not in visited:
+            else:
                 strength += 5
-            
-            visited.add(x)
-        
+                    
         return strength
             
