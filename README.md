@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/navaneethsankar07/flaq/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/navaneethsankar07/flaq/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/navaneethsankar07/flaq/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [1880-check-if-word-equals-summation-of-two-words](https://github.com/navaneethsankar07/flaq/tree/main/1880-check-if-word-equals-summation-of-two-words/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/navaneethsankar07/flaq/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/navaneethsankar07/flaq/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2325-decode-the-message](https://github.com/navaneethsankar07/flaq/tree/main/2325-decode-the-message/) | Easy |
