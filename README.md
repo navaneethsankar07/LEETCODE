@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1189-maximum-number-of-balloons](https://github.com/navaneethsankar07/flaq/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1268-search-suggestions-system](https://github.com/navaneethsankar07/flaq/tree/main/1268-search-suggestions-system/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/navaneethsankar07/flaq/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1360-number-of-days-between-two-dates](https://github.com/navaneethsankar07/flaq/tree/main/1360-number-of-days-between-two-dates/) | Easy |
 | [1436-destination-city](https://github.com/navaneethsankar07/flaq/tree/main/1436-destination-city/) | Easy |
 | [1446-consecutive-characters](https://github.com/navaneethsankar07/flaq/tree/main/1446-consecutive-characters/) | Easy |
 | [1528-shuffle-string](https://github.com/navaneethsankar07/flaq/tree/main/1528-shuffle-string/) | Easy |
@@ -241,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1185-day-of-the-week](https://github.com/navaneethsankar07/flaq/tree/main/1185-day-of-the-week/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/navaneethsankar07/flaq/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/navaneethsankar07/flaq/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1360-number-of-days-between-two-dates](https://github.com/navaneethsankar07/flaq/tree/main/1360-number-of-days-between-two-dates/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/navaneethsankar07/flaq/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1641-count-sorted-vowel-strings](https://github.com/navaneethsankar07/flaq/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/navaneethsankar07/flaq/tree/main/1780-check-if-number-is-a-sum-of-powers-of-three/) | Medium |
