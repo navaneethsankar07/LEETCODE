@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3884-first-matching-character-from-both-ends](https://github.com/navaneethsankar07/flaq/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 | [3931-check-adjacent-digit-differences](https://github.com/navaneethsankar07/flaq/tree/main/3931-check-adjacent-digit-differences/) | Easy |
 | [3941-password-strength](https://github.com/navaneethsankar07/flaq/tree/main/3941-password-strength/) | Medium |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/navaneethsankar07/flaq/tree/main/3986-number-of-elapsed-seconds-between-two-times/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -271,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/navaneethsankar07/flaq/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3895-count-digit-appearances](https://github.com/navaneethsankar07/flaq/tree/main/3895-count-digit-appearances/) | Medium |
 | [3945-digit-frequency-score](https://github.com/navaneethsankar07/flaq/tree/main/3945-digit-frequency-score/) | Easy |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/navaneethsankar07/flaq/tree/main/3986-number-of-elapsed-seconds-between-two-times/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
