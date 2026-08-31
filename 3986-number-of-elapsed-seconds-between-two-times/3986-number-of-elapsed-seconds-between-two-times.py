@@ -1,7 +1,9 @@
-from datetime import datetime
 class Solution:
     def secondsBetweenTimes(self, startTime: str, endTime: str) -> int:
-        time1 = datetime.strptime(startTime, "%H:%M:%S")
-        time2 = datetime.strptime(endTime, "%H:%M:%S")
-        diff = (time1 - time2).total_seconds()
-        return abs(int(diff))
+        h1, m1, s1 = startTime.split(":")
+        h2, m2, s2 = endTime.split(":")
+
+        t1 = int(h1) * 3600 + int(m1) * 60 + int(s1)
+        t2 = int(h2) * 3600 + int(m2) * 60 + int(s2)
+        
+        return abs(t1 - t2)
