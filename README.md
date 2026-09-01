@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/navaneethsankar07/flaq/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/navaneethsankar07/flaq/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/navaneethsankar07/flaq/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/navaneethsankar07/flaq/tree/main/2200-find-all-k-distant-indices-in-an-array/) | Easy |
 | [2239-find-closest-number-to-zero](https://github.com/navaneethsankar07/flaq/tree/main/2239-find-closest-number-to-zero/) | Easy |
 | [2293-min-max-game](https://github.com/navaneethsankar07/flaq/tree/main/2293-min-max-game/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/navaneethsankar07/flaq/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
@@ -403,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/navaneethsankar07/flaq/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/navaneethsankar07/flaq/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/navaneethsankar07/flaq/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/navaneethsankar07/flaq/tree/main/2200-find-all-k-distant-indices-in-an-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/navaneethsankar07/flaq/tree/main/2540-minimum-common-value/) | Easy |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/navaneethsankar07/flaq/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/navaneethsankar07/flaq/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
