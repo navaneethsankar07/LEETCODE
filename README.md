@@ -202,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3842-toggle-light-bulbs](https://github.com/navaneethsankar07/flaq/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3866-first-unique-even-element](https://github.com/navaneethsankar07/flaq/tree/main/3866-first-unique-even-element/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/navaneethsankar07/flaq/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/navaneethsankar07/flaq/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3895-count-digit-appearances](https://github.com/navaneethsankar07/flaq/tree/main/3895-count-digit-appearances/) | Medium |
 | [4020-elevator-requests-i](https://github.com/navaneethsankar07/flaq/tree/main/4020-elevator-requests-i/) | Easy |
 ## Matrix
@@ -271,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/navaneethsankar07/flaq/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/navaneethsankar07/flaq/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/navaneethsankar07/flaq/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/navaneethsankar07/flaq/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3895-count-digit-appearances](https://github.com/navaneethsankar07/flaq/tree/main/3895-count-digit-appearances/) | Medium |
 | [3945-digit-frequency-score](https://github.com/navaneethsankar07/flaq/tree/main/3945-digit-frequency-score/) | Easy |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/navaneethsankar07/flaq/tree/main/3986-number-of-elapsed-seconds-between-two-times/) | Easy |
