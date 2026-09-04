@@ -1,12 +1,17 @@
 class Solution:
     def firstStableIndex(self, nums: list[int], k: int) -> int:
-        index = float('inf')
         n = len(nums)
-        for x in range(n):
-            min_ = min(nums[x:n])
-            max_ = max(nums[0:x+1])
-            if max_ - min_ <= k and x < index:
-                index = x
-        
-        
-        return index if index != float('inf') else -1 
+        suffix_min = [0] * n
+        suffix_min[-1] = nums[-1]
+        for i in range(n - 2, -1, -1):
+            suffix_min[i] = min(nums[i], suffix_min[i + 1])
+
+        prefix_max = nums[0]
+
+        for i in range(n):
+            prefix_max = max(prefix_max, nums[i])
+
+            if prefix_max - suffix_min[i] <= k:
+                return i
+
+        return -1    
