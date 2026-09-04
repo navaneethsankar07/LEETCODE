@@ -5,9 +5,7 @@ class Solution:
         for x in range(n):
             min_ = min(nums[x:n])
             max_ = max(nums[0:x+1])
-            print(index, max_ - min_)
             if max_ - min_ <= k and x < index:
-
                 index = x
         
         
