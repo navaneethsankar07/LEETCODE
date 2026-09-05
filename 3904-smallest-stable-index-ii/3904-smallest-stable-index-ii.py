@@ -7,7 +7,7 @@ class Solution:
         for x in range(n-2, -1, -1):
             suffix_min[x] = min(nums[x], suffix_min[x+1])
 
-        prefix_max = 0
+        prefix_max = nums[0]
 
         for x in range(n):
             prefix_max = max(nums[x], prefix_max)
