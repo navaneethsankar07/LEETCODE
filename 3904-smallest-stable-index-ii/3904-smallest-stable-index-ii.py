@@ -2,16 +2,20 @@ class Solution:
     def firstStableIndex(self, nums: list[int], k: int) -> int:
         n = len(nums)
         suffix_min = [0] * n
-        suffix_min[-1] = nums[-1]
+        current_min = float('inf')
 
-        for x in range(n-2, -1, -1):
-            suffix_min[x] = min(nums[x], suffix_min[x+1])
+        for x in range(n-1, -1, -1):
+            if nums[x] < current_min:
+                current_min = nums[x]
+            suffix_min[x] = current_min
 
-        prefix_max = nums[0]
+        current_max = 0
 
         for x in range(n):
-            prefix_max = max(nums[x], prefix_max)
-            if prefix_max - suffix_min[x] <= k:
+            if nums[x] > current_max:
+                current_max = nums[x]
+
+            if current_max - suffix_min[x] <= k:
                 return x
         
         return -1
