@@ -239,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/navaneethsankar07/flaq/tree/main/0007-reverse-integer/) | Medium |
 | [0048-rotate-image](https://github.com/navaneethsankar07/flaq/tree/main/0048-rotate-image/) | Medium |
 | [0202-happy-number](https://github.com/navaneethsankar07/flaq/tree/main/0202-happy-number/) | Easy |
+| [0263-ugly-number](https://github.com/navaneethsankar07/flaq/tree/main/0263-ugly-number/) | Easy |
 | [0441-arranging-coins](https://github.com/navaneethsankar07/flaq/tree/main/0441-arranging-coins/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/navaneethsankar07/flaq/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/navaneethsankar07/flaq/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
