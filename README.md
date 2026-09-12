@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/navaneethsankar07/flaq/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/navaneethsankar07/flaq/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0015-3sum](https://github.com/navaneethsankar07/flaq/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/navaneethsankar07/flaq/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/navaneethsankar07/flaq/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/navaneethsankar07/flaq/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/navaneethsankar07/flaq/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
@@ -337,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/navaneethsankar07/flaq/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/navaneethsankar07/flaq/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/navaneethsankar07/flaq/tree/main/0018-4sum/) | Medium |
 | [0147-insertion-sort-list](https://github.com/navaneethsankar07/flaq/tree/main/0147-insertion-sort-list/) | Medium |
 | [0148-sort-list](https://github.com/navaneethsankar07/flaq/tree/main/0148-sort-list/) | Medium |
@@ -397,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/navaneethsankar07/flaq/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/navaneethsankar07/flaq/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/navaneethsankar07/flaq/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/navaneethsankar07/flaq/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/navaneethsankar07/flaq/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
