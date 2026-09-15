@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3146-permutation-difference-between-two-strings](https://github.com/navaneethsankar07/flaq/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3210-find-the-encrypted-string](https://github.com/navaneethsankar07/flaq/tree/main/3210-find-the-encrypted-string/) | Easy |
 | [3271-hash-divided-string](https://github.com/navaneethsankar07/flaq/tree/main/3271-hash-divided-string/) | Medium |
+| [3407-substring-matching-pattern](https://github.com/navaneethsankar07/flaq/tree/main/3407-substring-matching-pattern/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/navaneethsankar07/flaq/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3582-generate-tag-for-video-caption](https://github.com/navaneethsankar07/flaq/tree/main/3582-generate-tag-for-video-caption/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/navaneethsankar07/flaq/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -754,6 +755,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/navaneethsankar07/flaq/tree/main/0796-rotate-string/) | Easy |
 | [1668-maximum-repeating-substring](https://github.com/navaneethsankar07/flaq/tree/main/1668-maximum-repeating-substring/) | Easy |
+| [3407-substring-matching-pattern](https://github.com/navaneethsankar07/flaq/tree/main/3407-substring-matching-pattern/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
