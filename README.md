@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/navaneethsankar07/flaq/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/navaneethsankar07/flaq/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3668-restore-finishing-order](https://github.com/navaneethsankar07/flaq/tree/main/3668-restore-finishing-order/) | Easy |
+| [3678-smallest-absent-positive-greater-than-average](https://github.com/navaneethsankar07/flaq/tree/main/3678-smallest-absent-positive-greater-than-average/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/navaneethsankar07/flaq/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/navaneethsankar07/flaq/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/navaneethsankar07/flaq/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -196,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3471-find-the-largest-almost-missing-integer](https://github.com/navaneethsankar07/flaq/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/navaneethsankar07/flaq/tree/main/3502-minimum-cost-to-reach-every-position/) | Easy |
 | [3668-restore-finishing-order](https://github.com/navaneethsankar07/flaq/tree/main/3668-restore-finishing-order/) | Easy |
+| [3678-smallest-absent-positive-greater-than-average](https://github.com/navaneethsankar07/flaq/tree/main/3678-smallest-absent-positive-greater-than-average/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/navaneethsankar07/flaq/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/navaneethsankar07/flaq/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/navaneethsankar07/flaq/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
