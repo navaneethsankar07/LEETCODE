@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2325-decode-the-message](https://github.com/navaneethsankar07/flaq/tree/main/2325-decode-the-message/) | Easy |
 | [2375-construct-smallest-number-from-di-string](https://github.com/navaneethsankar07/flaq/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/navaneethsankar07/flaq/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3114-latest-time-you-can-obtain-after-replacing-characters](https://github.com/navaneethsankar07/flaq/tree/main/3114-latest-time-you-can-obtain-after-replacing-characters/) | Easy |
 | [3146-permutation-difference-between-two-strings](https://github.com/navaneethsankar07/flaq/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3210-find-the-encrypted-string](https://github.com/navaneethsankar07/flaq/tree/main/3210-find-the-encrypted-string/) | Easy |
 | [3271-hash-divided-string](https://github.com/navaneethsankar07/flaq/tree/main/3271-hash-divided-string/) | Medium |
@@ -797,6 +798,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/navaneethsankar07/flaq/tree/main/1291-sequential-digits/) | Medium |
+| [3114-latest-time-you-can-obtain-after-replacing-characters](https://github.com/navaneethsankar07/flaq/tree/main/3114-latest-time-you-can-obtain-after-replacing-characters/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/navaneethsankar07/flaq/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Topological Sort
 | Problem Name | Difficulty |
