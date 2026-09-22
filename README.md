@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3838-weighted-word-mapping](https://github.com/navaneethsankar07/flaq/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3856-trim-trailing-vowels](https://github.com/navaneethsankar07/flaq/tree/main/3856-trim-trailing-vowels/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/navaneethsankar07/flaq/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
+| [3921-score-validator](https://github.com/navaneethsankar07/flaq/tree/main/3921-score-validator/) | Easy |
 | [3931-check-adjacent-digit-differences](https://github.com/navaneethsankar07/flaq/tree/main/3931-check-adjacent-digit-differences/) | Easy |
 | [3941-password-strength](https://github.com/navaneethsankar07/flaq/tree/main/3941-password-strength/) | Medium |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/navaneethsankar07/flaq/tree/main/3986-number-of-elapsed-seconds-between-two-times/) | Easy |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3895-count-digit-appearances](https://github.com/navaneethsankar07/flaq/tree/main/3895-count-digit-appearances/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/navaneethsankar07/flaq/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/navaneethsankar07/flaq/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [3921-score-validator](https://github.com/navaneethsankar07/flaq/tree/main/3921-score-validator/) | Easy |
 | [4020-elevator-requests-i](https://github.com/navaneethsankar07/flaq/tree/main/4020-elevator-requests-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -329,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3838-weighted-word-mapping](https://github.com/navaneethsankar07/flaq/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/navaneethsankar07/flaq/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/navaneethsankar07/flaq/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3921-score-validator](https://github.com/navaneethsankar07/flaq/tree/main/3921-score-validator/) | Easy |
 | [4020-elevator-requests-i](https://github.com/navaneethsankar07/flaq/tree/main/4020-elevator-requests-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
