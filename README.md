@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1436-destination-city](https://github.com/navaneethsankar07/flaq/tree/main/1436-destination-city/) | Easy |
 | [1446-consecutive-characters](https://github.com/navaneethsankar07/flaq/tree/main/1446-consecutive-characters/) | Easy |
 | [1528-shuffle-string](https://github.com/navaneethsankar07/flaq/tree/main/1528-shuffle-string/) | Easy |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/navaneethsankar07/flaq/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1544-make-the-string-great](https://github.com/navaneethsankar07/flaq/tree/main/1544-make-the-string-great/) | Easy |
 | [1556-thousand-separator](https://github.com/navaneethsankar07/flaq/tree/main/1556-thousand-separator/) | Easy |
 | [1592-rearrange-spaces-between-words](https://github.com/navaneethsankar07/flaq/tree/main/1592-rearrange-spaces-between-words/) | Easy |
@@ -303,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0561-array-partition](https://github.com/navaneethsankar07/flaq/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/navaneethsankar07/flaq/tree/main/0605-can-place-flowers/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/navaneethsankar07/flaq/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/navaneethsankar07/flaq/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/navaneethsankar07/flaq/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/navaneethsankar07/flaq/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/navaneethsankar07/flaq/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -511,6 +513,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1441-build-an-array-with-stack-operations](https://github.com/navaneethsankar07/flaq/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1472-design-browser-history](https://github.com/navaneethsankar07/flaq/tree/main/1472-design-browser-history/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/navaneethsankar07/flaq/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/navaneethsankar07/flaq/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1544-make-the-string-great](https://github.com/navaneethsankar07/flaq/tree/main/1544-make-the-string-great/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/navaneethsankar07/flaq/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2375-construct-smallest-number-from-di-string](https://github.com/navaneethsankar07/flaq/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
@@ -824,4 +827,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/navaneethsankar07/flaq/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/navaneethsankar07/flaq/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 <!---LeetCode Topics End-->
