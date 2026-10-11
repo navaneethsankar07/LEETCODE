@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2553-separate-the-digits-in-an-array](https://github.com/navaneethsankar07/flaq/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/navaneethsankar07/flaq/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/navaneethsankar07/flaq/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/navaneethsankar07/flaq/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/navaneethsankar07/flaq/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/navaneethsankar07/flaq/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/navaneethsankar07/flaq/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
@@ -815,6 +816,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/navaneethsankar07/flaq/tree/main/1291-sequential-digits/) | Medium |
 | [1925-count-square-sum-triples](https://github.com/navaneethsankar07/flaq/tree/main/1925-count-square-sum-triples/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/navaneethsankar07/flaq/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3114-latest-time-you-can-obtain-after-replacing-characters](https://github.com/navaneethsankar07/flaq/tree/main/3114-latest-time-you-can-obtain-after-replacing-characters/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/navaneethsankar07/flaq/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Topological Sort
