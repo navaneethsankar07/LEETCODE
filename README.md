@@ -209,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/navaneethsankar07/flaq/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/navaneethsankar07/flaq/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/navaneethsankar07/flaq/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/navaneethsankar07/flaq/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/navaneethsankar07/flaq/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/navaneethsankar07/flaq/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/navaneethsankar07/flaq/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -317,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/navaneethsankar07/flaq/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/navaneethsankar07/flaq/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/navaneethsankar07/flaq/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/navaneethsankar07/flaq/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -382,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3074-apple-redistribution-into-boxes](https://github.com/navaneethsankar07/flaq/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/navaneethsankar07/flaq/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/navaneethsankar07/flaq/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/navaneethsankar07/flaq/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3842-toggle-light-bulbs](https://github.com/navaneethsankar07/flaq/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/navaneethsankar07/flaq/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Heap (Priority Queue)
