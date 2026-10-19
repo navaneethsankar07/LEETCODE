@@ -176,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1979-find-greatest-common-divisor-of-array](https://github.com/navaneethsankar07/flaq/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/navaneethsankar07/flaq/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/navaneethsankar07/flaq/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/navaneethsankar07/flaq/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/navaneethsankar07/flaq/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/navaneethsankar07/flaq/tree/main/2200-find-all-k-distant-indices-in-an-array/) | Easy |
 | [2239-find-closest-number-to-zero](https://github.com/navaneethsankar07/flaq/tree/main/2239-find-closest-number-to-zero/) | Easy |
@@ -379,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/navaneethsankar07/flaq/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/navaneethsankar07/flaq/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/navaneethsankar07/flaq/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/navaneethsankar07/flaq/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/navaneethsankar07/flaq/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2363-merge-similar-items](https://github.com/navaneethsankar07/flaq/tree/main/2363-merge-similar-items/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/navaneethsankar07/flaq/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
@@ -609,6 +611,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0441-arranging-coins](https://github.com/navaneethsankar07/flaq/tree/main/0441-arranging-coins/) | Easy |
 | [1268-search-suggestions-system](https://github.com/navaneethsankar07/flaq/tree/main/1268-search-suggestions-system/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/navaneethsankar07/flaq/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/navaneethsankar07/flaq/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/navaneethsankar07/flaq/tree/main/2540-minimum-common-value/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
