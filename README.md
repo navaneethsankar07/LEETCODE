@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/navaneethsankar07/flaq/tree/main/0409-longest-palindrome/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/navaneethsankar07/flaq/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0482-license-key-formatting](https://github.com/navaneethsankar07/flaq/tree/main/0482-license-key-formatting/) | Easy |
+| [0504-base-7](https://github.com/navaneethsankar07/flaq/tree/main/0504-base-7/) | Easy |
 | [0551-student-attendance-record-i](https://github.com/navaneethsankar07/flaq/tree/main/0551-student-attendance-record-i/) | Easy |
 | [0748-shortest-completing-word](https://github.com/navaneethsankar07/flaq/tree/main/0748-shortest-completing-word/) | Easy |
 | [0796-rotate-string](https://github.com/navaneethsankar07/flaq/tree/main/0796-rotate-string/) | Easy |
@@ -259,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0263-ugly-number](https://github.com/navaneethsankar07/flaq/tree/main/0263-ugly-number/) | Easy |
 | [0441-arranging-coins](https://github.com/navaneethsankar07/flaq/tree/main/0441-arranging-coins/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/navaneethsankar07/flaq/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0504-base-7](https://github.com/navaneethsankar07/flaq/tree/main/0504-base-7/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/navaneethsankar07/flaq/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0836-rectangle-overlap](https://github.com/navaneethsankar07/flaq/tree/main/0836-rectangle-overlap/) | Easy |
 | [1037-valid-boomerang](https://github.com/navaneethsankar07/flaq/tree/main/1037-valid-boomerang/) | Easy |
