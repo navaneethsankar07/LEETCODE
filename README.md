@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0682-baseball-game](https://github.com/navaneethsankar07/flaq/tree/main/0682-baseball-game/) | Easy |
 | [0705-design-hashset](https://github.com/navaneethsankar07/flaq/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/navaneethsankar07/flaq/tree/main/0706-design-hashmap/) | Easy |
+| [0717-1-bit-and-2-bit-characters](https://github.com/navaneethsankar07/flaq/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
 | [0748-shortest-completing-word](https://github.com/navaneethsankar07/flaq/tree/main/0748-shortest-completing-word/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/navaneethsankar07/flaq/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0867-transpose-matrix](https://github.com/navaneethsankar07/flaq/tree/main/0867-transpose-matrix/) | Easy |
