@@ -2,6 +2,9 @@ class Solution:
     def validMountainArray(self, arr: list[int]) -> bool:
         i, n = 0, len(arr)
 
+        if n < 3:
+            return False
+
         while i + 1 < n and arr[i] < arr[i + 1]:
             i += 1
         
