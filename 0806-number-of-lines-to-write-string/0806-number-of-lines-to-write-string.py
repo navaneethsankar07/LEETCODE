@@ -1,21 +1,17 @@
 class Solution:
     def numberOfLines(self, widths: List[int], s: str) -> List[int]:
         lines = 1
-        max_width = 100
-        n  = len(s)
-        i = 0
+        current_width = 0
 
-        while i < n:
-            width = widths[ord(s[i]) - 97]
-            if max_width - width < 0:
+        for char in s:
+            width = widths[ord(char) - 97]
+
+            if current_width + width > 100:
                 lines += 1
-                max_width = 100 - width
-                i += 1
+                current_width = width
             else:
-                max_width -= width
-                i += 1
-    
-        return [lines, 100 - max_width]
+                current_width += width
 
+        return [lines, current_width]
 
             
