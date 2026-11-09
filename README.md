@@ -246,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0197-rising-temperature](https://github.com/navaneethsankar07/flaq/tree/main/0197-rising-temperature/) | Easy |
 | [0607-sales-person](https://github.com/navaneethsankar07/flaq/tree/main/0607-sales-person/) | Easy |
 | [1084-sales-analysis-iii](https://github.com/navaneethsankar07/flaq/tree/main/1084-sales-analysis-iii/) | Easy |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/navaneethsankar07/flaq/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1211-queries-quality-and-percentage](https://github.com/navaneethsankar07/flaq/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1407-top-travellers](https://github.com/navaneethsankar07/flaq/tree/main/1407-top-travellers/) | Easy |
 | [1517-find-users-with-valid-e-mails](https://github.com/navaneethsankar07/flaq/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
