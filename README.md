@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/navaneethsankar07/flaq/tree/main/0162-find-peak-element/) | Medium |
 | [0198-house-robber](https://github.com/navaneethsankar07/flaq/tree/main/0198-house-robber/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/navaneethsankar07/flaq/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/navaneethsankar07/flaq/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/navaneethsankar07/flaq/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/navaneethsankar07/flaq/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/navaneethsankar07/flaq/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
@@ -449,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/navaneethsankar07/flaq/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0202-happy-number](https://github.com/navaneethsankar07/flaq/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/navaneethsankar07/flaq/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/navaneethsankar07/flaq/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/navaneethsankar07/flaq/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/navaneethsankar07/flaq/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/navaneethsankar07/flaq/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -467,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/navaneethsankar07/flaq/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/navaneethsankar07/flaq/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0338-counting-bits](https://github.com/navaneethsankar07/flaq/tree/main/0338-counting-bits/) | Easy |
 | [0461-hamming-distance](https://github.com/navaneethsankar07/flaq/tree/main/0461-hamming-distance/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/navaneethsankar07/flaq/tree/main/1009-complement-of-base-10-integer/) | Easy |
@@ -622,6 +625,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/navaneethsankar07/flaq/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/navaneethsankar07/flaq/tree/main/0162-find-peak-element/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/navaneethsankar07/flaq/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/navaneethsankar07/flaq/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/navaneethsankar07/flaq/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0441-arranging-coins](https://github.com/navaneethsankar07/flaq/tree/main/0441-arranging-coins/) | Easy |
 | [1268-search-suggestions-system](https://github.com/navaneethsankar07/flaq/tree/main/1268-search-suggestions-system/) | Medium |
@@ -866,4 +870,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1114-print-in-order](https://github.com/navaneethsankar07/flaq/tree/main/1114-print-in-order/) | Easy |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/navaneethsankar07/flaq/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/navaneethsankar07/flaq/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
