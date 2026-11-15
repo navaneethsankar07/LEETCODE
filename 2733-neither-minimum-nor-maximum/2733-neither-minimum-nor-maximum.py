@@ -3,5 +3,4 @@ class Solution:
         if len(nums) < 3:
             return -1
         
-        nums.sort()
-        return nums[1]
+        return sorted(nums)[1]
