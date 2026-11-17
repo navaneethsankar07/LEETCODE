@@ -275,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/navaneethsankar07/flaq/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/navaneethsankar07/flaq/tree/main/0007-reverse-integer/) | Medium |
 | [0048-rotate-image](https://github.com/navaneethsankar07/flaq/tree/main/0048-rotate-image/) | Medium |
+| [0070-climbing-stairs](https://github.com/navaneethsankar07/flaq/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/navaneethsankar07/flaq/tree/main/0202-happy-number/) | Easy |
 | [0263-ugly-number](https://github.com/navaneethsankar07/flaq/tree/main/0263-ugly-number/) | Easy |
 | [0441-arranging-coins](https://github.com/navaneethsankar07/flaq/tree/main/0441-arranging-coins/) | Easy |
@@ -646,6 +647,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/navaneethsankar07/flaq/tree/main/0070-climbing-stairs/) | Easy |
 | [0139-word-break](https://github.com/navaneethsankar07/flaq/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/navaneethsankar07/flaq/tree/main/0198-house-robber/) | Medium |
 | [0338-counting-bits](https://github.com/navaneethsankar07/flaq/tree/main/0338-counting-bits/) | Easy |
@@ -894,6 +896,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/navaneethsankar07/flaq/tree/main/0070-climbing-stairs/) | Easy |
 | [0139-word-break](https://github.com/navaneethsankar07/flaq/tree/main/0139-word-break/) | Medium |
 ## Brute-Force Search
 | Problem Name | Difficulty |
