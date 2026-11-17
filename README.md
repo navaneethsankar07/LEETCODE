@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0006-zigzag-conversion](https://github.com/navaneethsankar07/flaq/tree/main/0006-zigzag-conversion/) | Medium |
 | [0020-valid-parentheses](https://github.com/navaneethsankar07/flaq/tree/main/0020-valid-parentheses/) | Easy |
 | [0139-word-break](https://github.com/navaneethsankar07/flaq/tree/main/0139-word-break/) | Medium |
 | [0205-isomorphic-strings](https://github.com/navaneethsankar07/flaq/tree/main/0205-isomorphic-strings/) | Easy |
