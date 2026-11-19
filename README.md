@@ -285,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/navaneethsankar07/flaq/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0836-rectangle-overlap](https://github.com/navaneethsankar07/flaq/tree/main/0836-rectangle-overlap/) | Easy |
 | [1037-valid-boomerang](https://github.com/navaneethsankar07/flaq/tree/main/1037-valid-boomerang/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/navaneethsankar07/flaq/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1154-day-of-the-year](https://github.com/navaneethsankar07/flaq/tree/main/1154-day-of-the-year/) | Easy |
 | [1185-day-of-the-week](https://github.com/navaneethsankar07/flaq/tree/main/1185-day-of-the-week/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/navaneethsankar07/flaq/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
@@ -652,6 +653,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/navaneethsankar07/flaq/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/navaneethsankar07/flaq/tree/main/0198-house-robber/) | Medium |
 | [0338-counting-bits](https://github.com/navaneethsankar07/flaq/tree/main/0338-counting-bits/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/navaneethsankar07/flaq/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1641-count-sorted-vowel-strings](https://github.com/navaneethsankar07/flaq/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [1668-maximum-repeating-substring](https://github.com/navaneethsankar07/flaq/tree/main/1668-maximum-repeating-substring/) | Easy |
 ## Tree
@@ -899,6 +901,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/navaneethsankar07/flaq/tree/main/0070-climbing-stairs/) | Easy |
 | [0139-word-break](https://github.com/navaneethsankar07/flaq/tree/main/0139-word-break/) | Medium |
+| [1137-n-th-tribonacci-number](https://github.com/navaneethsankar07/flaq/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Brute-Force Search
 | Problem Name | Difficulty |
 | ------- | ------- |
