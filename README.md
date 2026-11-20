@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/navaneethsankar07/flaq/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/navaneethsankar07/flaq/tree/main/0048-rotate-image/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/navaneethsankar07/flaq/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/navaneethsankar07/flaq/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0139-word-break](https://github.com/navaneethsankar07/flaq/tree/main/0139-word-break/) | Medium |
 | [0162-find-peak-element](https://github.com/navaneethsankar07/flaq/tree/main/0162-find-peak-element/) | Medium |
 | [0198-house-robber](https://github.com/navaneethsankar07/flaq/tree/main/0198-house-robber/) | Medium |
@@ -653,6 +654,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/navaneethsankar07/flaq/tree/main/0070-climbing-stairs/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/navaneethsankar07/flaq/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0139-word-break](https://github.com/navaneethsankar07/flaq/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/navaneethsankar07/flaq/tree/main/0198-house-robber/) | Medium |
 | [0338-counting-bits](https://github.com/navaneethsankar07/flaq/tree/main/0338-counting-bits/) | Easy |
